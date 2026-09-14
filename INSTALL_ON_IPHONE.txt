@@ -1,0 +1,30 @@
+CHRONOLOGICAL GOSPELS — VERSION 2 FULL
+
+WHAT IS INCLUDED
+• Complete 199-day reading plan
+• All 3,779 numbered verses in Matthew, Mark, Luke, and John exactly once
+• 18 verses on Day 1 and Day 199; 19 verses on every other day
+• Home, Today, All Days, Notes, Settings
+• Checkmarks and progress percentage
+• Start-date based “Today” reading
+• Search
+• Notes
+• Dark mode
+• Adjustable text size
+• NLT links to YouVersion/Bible.com
+• Offline caching after the first successful web load
+• Backup export
+
+IMPORTANT ABOUT INSTALLING ON AN IPHONE
+This is a Progressive Web App (PWA). For “Add to Home Screen” to behave like a normal
+stand-alone app, these files must be served from a web address (HTTPS). Opening index.html
+directly from the iPhone Files app is useful for previewing, but does not provide the full
+installed-PWA experience.
+
+Once hosted:
+1. Open the site in Safari.
+2. Tap Share.
+3. Tap “Add to Home Screen.”
+4. Open the new Chronological Gospels icon.
+
+The NLT text itself is not copied into this app; the app links to YouVersion/Bible.com.
