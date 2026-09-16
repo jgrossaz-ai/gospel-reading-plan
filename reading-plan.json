@@ -14,6 +14,13 @@
         "label": "John 1:1–18",
         "url": "https://www.bible.com/bible/116/JHN.1.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 1:1–18",
+        "appUrl": "youversion://bible?reference=JHN.1.1-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%201:1-18"
+      }
     ]
   },
   {
@@ -35,6 +42,18 @@
       {
         "label": "Matthew 1:1–15",
         "url": "https://www.bible.com/bible/116/MAT.1.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 1:1–4",
+        "appUrl": "youversion://bible?reference=LUK.1.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:1-4"
+      },
+      {
+        "label": "Matthew 1:1–15",
+        "appUrl": "youversion://bible?reference=MAT.1.1-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%201:1-15"
       }
     ]
   },
@@ -63,6 +82,23 @@
         "label": "Luke 1:5",
         "url": "https://www.bible.com/bible/116/LUK.1.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 1:16–17",
+        "appUrl": "youversion://bible?reference=MAT.1.16-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%201:16-17"
+      },
+      {
+        "label": "Luke 3:23–38",
+        "appUrl": "youversion://bible?reference=LUK.3.23-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:23-38"
+      },
+      {
+        "label": "Luke 1:5",
+        "appUrl": "youversion://bible?reference=LUK.1.5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:5"
+      }
     ]
   },
   {
@@ -79,6 +115,13 @@
       {
         "label": "Luke 1:6–24",
         "url": "https://www.bible.com/bible/116/LUK.1.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 1:6–24",
+        "appUrl": "youversion://bible?reference=LUK.1.6-24",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:6-24"
       }
     ]
   },
@@ -97,6 +140,13 @@
         "label": "Luke 1:25–43",
         "url": "https://www.bible.com/bible/116/LUK.1.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 1:25–43",
+        "appUrl": "youversion://bible?reference=LUK.1.25-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:25-43"
+      }
     ]
   },
   {
@@ -113,6 +163,13 @@
       {
         "label": "Luke 1:44–62",
         "url": "https://www.bible.com/bible/116/LUK.1.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 1:44–62",
+        "appUrl": "youversion://bible?reference=LUK.1.44-62",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:44-62"
       }
     ]
   },
@@ -136,6 +193,18 @@
         "label": "Matthew 1:18",
         "url": "https://www.bible.com/bible/116/MAT.1.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 1:63–80",
+        "appUrl": "youversion://bible?reference=LUK.1.63-80",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%201:63-80"
+      },
+      {
+        "label": "Matthew 1:18",
+        "appUrl": "youversion://bible?reference=MAT.1.18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%201:18"
+      }
     ]
   },
   {
@@ -158,6 +227,18 @@
         "label": "Luke 2:1–12",
         "url": "https://www.bible.com/bible/116/LUK.2.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 1:19–25",
+        "appUrl": "youversion://bible?reference=MAT.1.19-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%201:19-25"
+      },
+      {
+        "label": "Luke 2:1–12",
+        "appUrl": "youversion://bible?reference=LUK.2.1-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%202:1-12"
+      }
     ]
   },
   {
@@ -174,6 +255,13 @@
       {
         "label": "Luke 2:13–31",
         "url": "https://www.bible.com/bible/116/LUK.2.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 2:13–31",
+        "appUrl": "youversion://bible?reference=LUK.2.13-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%202:13-31"
       }
     ]
   },
@@ -197,6 +285,18 @@
         "label": "Matthew 2:1–12",
         "url": "https://www.bible.com/bible/116/MAT.2.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 2:32–38",
+        "appUrl": "youversion://bible?reference=LUK.2.32-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%202:32-38"
+      },
+      {
+        "label": "Matthew 2:1–12",
+        "appUrl": "youversion://bible?reference=MAT.2.1-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%202:1-12"
+      }
     ]
   },
   {
@@ -218,6 +318,18 @@
       {
         "label": "Luke 2:39–46",
         "url": "https://www.bible.com/bible/116/LUK.2.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 2:13–23",
+        "appUrl": "youversion://bible?reference=MAT.2.13-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%202:13-23"
+      },
+      {
+        "label": "Luke 2:39–46",
+        "appUrl": "youversion://bible?reference=LUK.2.39-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%202:39-46"
       }
     ]
   },
@@ -256,6 +368,33 @@
         "label": "Matthew 3:1–5",
         "url": "https://www.bible.com/bible/116/MAT.3.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 2:47–52",
+        "appUrl": "youversion://bible?reference=LUK.2.47-52",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%202:47-52"
+      },
+      {
+        "label": "Mark 1:1",
+        "appUrl": "youversion://bible?reference=MRK.1.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:1"
+      },
+      {
+        "label": "Luke 3:1–2",
+        "appUrl": "youversion://bible?reference=LUK.3.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:1-2"
+      },
+      {
+        "label": "Mark 1:2–6",
+        "appUrl": "youversion://bible?reference=MRK.1.2-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:2-6"
+      },
+      {
+        "label": "Matthew 3:1–5",
+        "appUrl": "youversion://bible?reference=MAT.3.1-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%203:1-5"
+      }
     ]
   },
   {
@@ -292,6 +431,33 @@
       {
         "label": "Mark 1:7–8",
         "url": "https://www.bible.com/bible/116/MRK.1.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 3:6",
+        "appUrl": "youversion://bible?reference=MAT.3.6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%203:6"
+      },
+      {
+        "label": "Luke 3:3–6",
+        "appUrl": "youversion://bible?reference=LUK.3.3-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:3-6"
+      },
+      {
+        "label": "Matthew 3:7–10",
+        "appUrl": "youversion://bible?reference=MAT.3.7-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%203:7-10"
+      },
+      {
+        "label": "Luke 3:7–14",
+        "appUrl": "youversion://bible?reference=LUK.3.7-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:7-14"
+      },
+      {
+        "label": "Mark 1:7–8",
+        "appUrl": "youversion://bible?reference=MRK.1.7-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:7-8"
       }
     ]
   },
@@ -340,6 +506,43 @@
         "label": "Matthew 4:1",
         "url": "https://www.bible.com/bible/116/MAT.4.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 3:11–12",
+        "appUrl": "youversion://bible?reference=MAT.3.11-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%203:11-12"
+      },
+      {
+        "label": "Luke 3:15–18",
+        "appUrl": "youversion://bible?reference=LUK.3.15-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:15-18"
+      },
+      {
+        "label": "Mark 1:9–11",
+        "appUrl": "youversion://bible?reference=MRK.1.9-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:9-11"
+      },
+      {
+        "label": "Matthew 3:13–17",
+        "appUrl": "youversion://bible?reference=MAT.3.13-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%203:13-17"
+      },
+      {
+        "label": "Luke 3:21–22",
+        "appUrl": "youversion://bible?reference=LUK.3.21-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:21-22"
+      },
+      {
+        "label": "Mark 1:12–13",
+        "appUrl": "youversion://bible?reference=MRK.1.12-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:12-13"
+      },
+      {
+        "label": "Matthew 4:1",
+        "appUrl": "youversion://bible?reference=MAT.4.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:1"
+      }
     ]
   },
   {
@@ -361,6 +564,18 @@
       {
         "label": "Luke 4:1–9",
         "url": "https://www.bible.com/bible/116/LUK.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 4:2–11",
+        "appUrl": "youversion://bible?reference=MAT.4.2-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:2-11"
+      },
+      {
+        "label": "Luke 4:1–9",
+        "appUrl": "youversion://bible?reference=LUK.4.1-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:1-9"
       }
     ]
   },
@@ -384,6 +599,18 @@
         "label": "John 1:19–33",
         "url": "https://www.bible.com/bible/116/JHN.1.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 4:10–13",
+        "appUrl": "youversion://bible?reference=LUK.4.10-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:10-13"
+      },
+      {
+        "label": "John 1:19–33",
+        "appUrl": "youversion://bible?reference=JHN.1.19-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%201:19-33"
+      }
     ]
   },
   {
@@ -406,6 +633,18 @@
         "label": "John 2:1",
         "url": "https://www.bible.com/bible/116/JHN.2.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 1:34–51",
+        "appUrl": "youversion://bible?reference=JHN.1.34-51",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%201:34-51"
+      },
+      {
+        "label": "John 2:1",
+        "appUrl": "youversion://bible?reference=JHN.2.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%202:1"
+      }
     ]
   },
   {
@@ -422,6 +661,13 @@
       {
         "label": "John 2:2–20",
         "url": "https://www.bible.com/bible/116/JHN.2.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 2:2–20",
+        "appUrl": "youversion://bible?reference=JHN.2.2-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%202:2-20"
       }
     ]
   },
@@ -445,6 +691,18 @@
         "label": "John 3:1–14",
         "url": "https://www.bible.com/bible/116/JHN.3.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 2:21–25",
+        "appUrl": "youversion://bible?reference=JHN.2.21-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%202:21-25"
+      },
+      {
+        "label": "John 3:1–14",
+        "appUrl": "youversion://bible?reference=JHN.3.1-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%203:1-14"
+      }
     ]
   },
   {
@@ -461,6 +719,13 @@
       {
         "label": "John 3:15–33",
         "url": "https://www.bible.com/bible/116/JHN.3.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 3:15–33",
+        "appUrl": "youversion://bible?reference=JHN.3.15-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%203:15-33"
       }
     ]
   },
@@ -504,6 +769,38 @@
         "label": "John 4:1–11",
         "url": "https://www.bible.com/bible/116/JHN.4.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 3:34–36",
+        "appUrl": "youversion://bible?reference=JHN.3.34-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%203:34-36"
+      },
+      {
+        "label": "Mark 1:14",
+        "appUrl": "youversion://bible?reference=MRK.1.14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:14"
+      },
+      {
+        "label": "Matthew 4:12",
+        "appUrl": "youversion://bible?reference=MAT.4.12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:12"
+      },
+      {
+        "label": "Luke 3:19–20",
+        "appUrl": "youversion://bible?reference=LUK.3.19-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%203:19-20"
+      },
+      {
+        "label": "Luke 4:14",
+        "appUrl": "youversion://bible?reference=LUK.4.14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:14"
+      },
+      {
+        "label": "John 4:1–11",
+        "appUrl": "youversion://bible?reference=JHN.4.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%204:1-11"
+      }
     ]
   },
   {
@@ -520,6 +817,13 @@
       {
         "label": "John 4:12–30",
         "url": "https://www.bible.com/bible/116/JHN.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 4:12–30",
+        "appUrl": "youversion://bible?reference=JHN.4.12-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%204:12-30"
       }
     ]
   },
@@ -558,6 +862,33 @@
         "label": "John 4:46",
         "url": "https://www.bible.com/bible/116/JHN.4.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 4:31–45",
+        "appUrl": "youversion://bible?reference=JHN.4.31-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%204:31-45"
+      },
+      {
+        "label": "Mark 1:15",
+        "appUrl": "youversion://bible?reference=MRK.1.15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:15"
+      },
+      {
+        "label": "Matthew 4:17",
+        "appUrl": "youversion://bible?reference=MAT.4.17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:17"
+      },
+      {
+        "label": "Luke 4:15",
+        "appUrl": "youversion://bible?reference=LUK.4.15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:15"
+      },
+      {
+        "label": "John 4:46",
+        "appUrl": "youversion://bible?reference=JHN.4.46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%204:46"
+      }
     ]
   },
   {
@@ -579,6 +910,18 @@
       {
         "label": "Luke 4:16–26",
         "url": "https://www.bible.com/bible/116/LUK.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 4:47–54",
+        "appUrl": "youversion://bible?reference=JHN.4.47-54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%204:47-54"
+      },
+      {
+        "label": "Luke 4:16–26",
+        "appUrl": "youversion://bible?reference=LUK.4.16-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:16-26"
       }
     ]
   },
@@ -612,6 +955,28 @@
         "label": "Matthew 4:18–22",
         "url": "https://www.bible.com/bible/116/MAT.4.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 4:27–31",
+        "appUrl": "youversion://bible?reference=LUK.4.27-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:27-31"
+      },
+      {
+        "label": "Matthew 4:13–16",
+        "appUrl": "youversion://bible?reference=MAT.4.13-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:13-16"
+      },
+      {
+        "label": "Mark 1:16–20",
+        "appUrl": "youversion://bible?reference=MRK.1.16-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:16-20"
+      },
+      {
+        "label": "Matthew 4:18–22",
+        "appUrl": "youversion://bible?reference=MAT.4.18-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:18-22"
+      }
     ]
   },
   {
@@ -633,6 +998,18 @@
       {
         "label": "Mark 1:21–28",
         "url": "https://www.bible.com/bible/116/MRK.1.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 5:1–11",
+        "appUrl": "youversion://bible?reference=LUK.5.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%205:1-11"
+      },
+      {
+        "label": "Mark 1:21–28",
+        "appUrl": "youversion://bible?reference=MRK.1.21-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:21-28"
       }
     ]
   },
@@ -665,6 +1042,28 @@
       {
         "label": "Luke 4:38–40",
         "url": "https://www.bible.com/bible/116/LUK.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 4:32–37",
+        "appUrl": "youversion://bible?reference=LUK.4.32-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:32-37"
+      },
+      {
+        "label": "Mark 1:29–34",
+        "appUrl": "youversion://bible?reference=MRK.1.29-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:29-34"
+      },
+      {
+        "label": "Matthew 8:14–17",
+        "appUrl": "youversion://bible?reference=MAT.8.14-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:14-17"
+      },
+      {
+        "label": "Luke 4:38–40",
+        "appUrl": "youversion://bible?reference=LUK.4.38-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:38-40"
       }
     ]
   },
@@ -708,6 +1107,38 @@
         "label": "Matthew 8:2",
         "url": "https://www.bible.com/bible/116/MAT.8.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 4:41",
+        "appUrl": "youversion://bible?reference=LUK.4.41",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:41"
+      },
+      {
+        "label": "Mark 1:35–39",
+        "appUrl": "youversion://bible?reference=MRK.1.35-39",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:35-39"
+      },
+      {
+        "label": "Matthew 4:23–25",
+        "appUrl": "youversion://bible?reference=MAT.4.23-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%204:23-25"
+      },
+      {
+        "label": "Luke 4:42–44",
+        "appUrl": "youversion://bible?reference=LUK.4.42-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%204:42-44"
+      },
+      {
+        "label": "Mark 1:40–45",
+        "appUrl": "youversion://bible?reference=MRK.1.40-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%201:40-45"
+      },
+      {
+        "label": "Matthew 8:2",
+        "appUrl": "youversion://bible?reference=MAT.8.2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:2"
+      }
     ]
   },
   {
@@ -735,6 +1166,23 @@
         "label": "Mark 2:1–12",
         "url": "https://www.bible.com/bible/116/MRK.2.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 8:3–4",
+        "appUrl": "youversion://bible?reference=MAT.8.3-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:3-4"
+      },
+      {
+        "label": "Luke 5:12–16",
+        "appUrl": "youversion://bible?reference=LUK.5.12-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%205:12-16"
+      },
+      {
+        "label": "Mark 2:1–12",
+        "appUrl": "youversion://bible?reference=MRK.2.1-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:1-12"
+      }
     ]
   },
   {
@@ -761,6 +1209,23 @@
       {
         "label": "Mark 2:13",
         "url": "https://www.bible.com/bible/116/MRK.2.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 9:1–8",
+        "appUrl": "youversion://bible?reference=MAT.9.1-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:1-8"
+      },
+      {
+        "label": "Luke 5:17–26",
+        "appUrl": "youversion://bible?reference=LUK.5.17-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%205:17-26"
+      },
+      {
+        "label": "Mark 2:13",
+        "appUrl": "youversion://bible?reference=MRK.2.13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:13"
       }
     ]
   },
@@ -794,6 +1259,28 @@
         "label": "Mark 2:18–21",
         "url": "https://www.bible.com/bible/116/MRK.2.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 2:14–17",
+        "appUrl": "youversion://bible?reference=MRK.2.14-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:14-17"
+      },
+      {
+        "label": "Matthew 9:9–13",
+        "appUrl": "youversion://bible?reference=MAT.9.9-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:9-13"
+      },
+      {
+        "label": "Luke 5:27–32",
+        "appUrl": "youversion://bible?reference=LUK.5.27-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%205:27-32"
+      },
+      {
+        "label": "Mark 2:18–21",
+        "appUrl": "youversion://bible?reference=MRK.2.18-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:18-21"
+      }
     ]
   },
   {
@@ -826,6 +1313,28 @@
         "label": "John 5:1–7",
         "url": "https://www.bible.com/bible/116/JHN.5.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 2:22",
+        "appUrl": "youversion://bible?reference=MRK.2.22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:22"
+      },
+      {
+        "label": "Matthew 9:14–17",
+        "appUrl": "youversion://bible?reference=MAT.9.14-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:14-17"
+      },
+      {
+        "label": "Luke 5:33–39",
+        "appUrl": "youversion://bible?reference=LUK.5.33-39",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%205:33-39"
+      },
+      {
+        "label": "John 5:1–7",
+        "appUrl": "youversion://bible?reference=JHN.5.1-7",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%205:1-7"
+      }
     ]
   },
   {
@@ -843,6 +1352,13 @@
         "label": "John 5:8–26",
         "url": "https://www.bible.com/bible/116/JHN.5.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 5:8–26",
+        "appUrl": "youversion://bible?reference=JHN.5.8-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%205:8-26"
+      }
     ]
   },
   {
@@ -859,6 +1375,13 @@
       {
         "label": "John 5:27–45",
         "url": "https://www.bible.com/bible/116/JHN.5.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 5:27–45",
+        "appUrl": "youversion://bible?reference=JHN.5.27-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%205:27-45"
       }
     ]
   },
@@ -892,6 +1415,28 @@
         "label": "Luke 6:1–3",
         "url": "https://www.bible.com/bible/116/LUK.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 5:46–47",
+        "appUrl": "youversion://bible?reference=JHN.5.46-47",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%205:46-47"
+      },
+      {
+        "label": "Mark 2:23–28",
+        "appUrl": "youversion://bible?reference=MRK.2.23-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%202:23-28"
+      },
+      {
+        "label": "Matthew 12:1–8",
+        "appUrl": "youversion://bible?reference=MAT.12.1-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:1-8"
+      },
+      {
+        "label": "Luke 6:1–3",
+        "appUrl": "youversion://bible?reference=LUK.6.1-3",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:1-3"
+      }
     ]
   },
   {
@@ -923,6 +1468,28 @@
       {
         "label": "Luke 6:6–10",
         "url": "https://www.bible.com/bible/116/LUK.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 6:4–5",
+        "appUrl": "youversion://bible?reference=LUK.6.4-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:4-5"
+      },
+      {
+        "label": "Mark 3:1–6",
+        "appUrl": "youversion://bible?reference=MRK.3.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:1-6"
+      },
+      {
+        "label": "Matthew 12:9–14",
+        "appUrl": "youversion://bible?reference=MAT.12.9-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:9-14"
+      },
+      {
+        "label": "Luke 6:6–10",
+        "appUrl": "youversion://bible?reference=LUK.6.6-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:6-10"
       }
     ]
   },
@@ -956,6 +1523,28 @@
         "label": "Mark 3:13–17",
         "url": "https://www.bible.com/bible/116/MRK.3.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 6:11",
+        "appUrl": "youversion://bible?reference=LUK.6.11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:11"
+      },
+      {
+        "label": "Mark 3:7–12",
+        "appUrl": "youversion://bible?reference=MRK.3.7-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:7-12"
+      },
+      {
+        "label": "Matthew 12:15–21",
+        "appUrl": "youversion://bible?reference=MAT.12.15-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:15-21"
+      },
+      {
+        "label": "Mark 3:13–17",
+        "appUrl": "youversion://bible?reference=MRK.3.13-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:13-17"
+      }
     ]
   },
   {
@@ -983,6 +1572,23 @@
         "label": "Matthew 5:1–12",
         "url": "https://www.bible.com/bible/116/MAT.5.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 3:18–19",
+        "appUrl": "youversion://bible?reference=MRK.3.18-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:18-19"
+      },
+      {
+        "label": "Luke 6:12–16",
+        "appUrl": "youversion://bible?reference=LUK.6.12-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:12-16"
+      },
+      {
+        "label": "Matthew 5:1–12",
+        "appUrl": "youversion://bible?reference=MAT.5.1-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%205:1-12"
+      }
     ]
   },
   {
@@ -999,6 +1605,13 @@
       {
         "label": "Matthew 5:13–31",
         "url": "https://www.bible.com/bible/116/MAT.5.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 5:13–31",
+        "appUrl": "youversion://bible?reference=MAT.5.13-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%205:13-31"
       }
     ]
   },
@@ -1022,6 +1635,18 @@
         "label": "Matthew 6:1–2",
         "url": "https://www.bible.com/bible/116/MAT.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 5:32–48",
+        "appUrl": "youversion://bible?reference=MAT.5.32-48",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%205:32-48"
+      },
+      {
+        "label": "Matthew 6:1–2",
+        "appUrl": "youversion://bible?reference=MAT.6.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%206:1-2"
+      }
     ]
   },
   {
@@ -1038,6 +1663,13 @@
       {
         "label": "Matthew 6:3–21",
         "url": "https://www.bible.com/bible/116/MAT.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 6:3–21",
+        "appUrl": "youversion://bible?reference=MAT.6.3-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%206:3-21"
       }
     ]
   },
@@ -1061,6 +1693,18 @@
         "label": "Matthew 7:1–6",
         "url": "https://www.bible.com/bible/116/MAT.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 6:22–34",
+        "appUrl": "youversion://bible?reference=MAT.6.22-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%206:22-34"
+      },
+      {
+        "label": "Matthew 7:1–6",
+        "appUrl": "youversion://bible?reference=MAT.7.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%207:1-6"
+      }
     ]
   },
   {
@@ -1077,6 +1721,13 @@
       {
         "label": "Matthew 7:7–25",
         "url": "https://www.bible.com/bible/116/MAT.7.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 7:7–25",
+        "appUrl": "youversion://bible?reference=MAT.7.7-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%207:7-25"
       }
     ]
   },
@@ -1105,6 +1756,23 @@
         "label": "Luke 6:17–30",
         "url": "https://www.bible.com/bible/116/LUK.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 7:26–29",
+        "appUrl": "youversion://bible?reference=MAT.7.26-29",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%207:26-29"
+      },
+      {
+        "label": "Matthew 8:1",
+        "appUrl": "youversion://bible?reference=MAT.8.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:1"
+      },
+      {
+        "label": "Luke 6:17–30",
+        "appUrl": "youversion://bible?reference=LUK.6.17-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:17-30"
+      }
     ]
   },
   {
@@ -1121,6 +1789,13 @@
       {
         "label": "Luke 6:31–49",
         "url": "https://www.bible.com/bible/116/LUK.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 6:31–49",
+        "appUrl": "youversion://bible?reference=LUK.6.31-49",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%206:31-49"
       }
     ]
   },
@@ -1144,6 +1819,18 @@
         "label": "Luke 7:1–10",
         "url": "https://www.bible.com/bible/116/LUK.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 8:5–13",
+        "appUrl": "youversion://bible?reference=MAT.8.5-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:5-13"
+      },
+      {
+        "label": "Luke 7:1–10",
+        "appUrl": "youversion://bible?reference=LUK.7.1-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:1-10"
+      }
     ]
   },
   {
@@ -1166,6 +1853,18 @@
         "label": "Matthew 11:2–13",
         "url": "https://www.bible.com/bible/116/MAT.11.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 7:11–17",
+        "appUrl": "youversion://bible?reference=LUK.7.11-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:11-17"
+      },
+      {
+        "label": "Matthew 11:2–13",
+        "appUrl": "youversion://bible?reference=MAT.11.2-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2011:2-13"
+      }
     ]
   },
   {
@@ -1187,6 +1886,18 @@
       {
         "label": "Luke 7:18–30",
         "url": "https://www.bible.com/bible/116/LUK.7.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 11:14–19",
+        "appUrl": "youversion://bible?reference=MAT.11.14-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2011:14-19"
+      },
+      {
+        "label": "Luke 7:18–30",
+        "appUrl": "youversion://bible?reference=LUK.7.18-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:18-30"
       }
     ]
   },
@@ -1215,6 +1926,23 @@
         "label": "Luke 7:36–38",
         "url": "https://www.bible.com/bible/116/LUK.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 7:31–35",
+        "appUrl": "youversion://bible?reference=LUK.7.31-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:31-35"
+      },
+      {
+        "label": "Matthew 11:20–30",
+        "appUrl": "youversion://bible?reference=MAT.11.20-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2011:20-30"
+      },
+      {
+        "label": "Luke 7:36–38",
+        "appUrl": "youversion://bible?reference=LUK.7.36-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:36-38"
+      }
     ]
   },
   {
@@ -1242,6 +1970,23 @@
         "label": "Mark 3:20–23",
         "url": "https://www.bible.com/bible/116/MRK.3.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 7:39–50",
+        "appUrl": "youversion://bible?reference=LUK.7.39-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%207:39-50"
+      },
+      {
+        "label": "Luke 8:1–3",
+        "appUrl": "youversion://bible?reference=LUK.8.1-3",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:1-3"
+      },
+      {
+        "label": "Mark 3:20–23",
+        "appUrl": "youversion://bible?reference=MRK.3.20-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:20-23"
+      }
     ]
   },
   {
@@ -1263,6 +2008,18 @@
       {
         "label": "Matthew 12:22–33",
         "url": "https://www.bible.com/bible/116/MAT.12.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 3:24–30",
+        "appUrl": "youversion://bible?reference=MRK.3.24-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:24-30"
+      },
+      {
+        "label": "Matthew 12:22–33",
+        "appUrl": "youversion://bible?reference=MAT.12.22-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:22-33"
       }
     ]
   },
@@ -1291,6 +2048,23 @@
         "label": "Matthew 12:46–47",
         "url": "https://www.bible.com/bible/116/MAT.12.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 12:34–45",
+        "appUrl": "youversion://bible?reference=MAT.12.34-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:34-45"
+      },
+      {
+        "label": "Mark 3:31–35",
+        "appUrl": "youversion://bible?reference=MRK.3.31-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%203:31-35"
+      },
+      {
+        "label": "Matthew 12:46–47",
+        "appUrl": "youversion://bible?reference=MAT.12.46-47",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:46-47"
+      }
     ]
   },
   {
@@ -1318,6 +2092,23 @@
         "label": "Mark 4:1–13",
         "url": "https://www.bible.com/bible/116/MRK.4.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 12:48–50",
+        "appUrl": "youversion://bible?reference=MAT.12.48-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2012:48-50"
+      },
+      {
+        "label": "Luke 8:19–21",
+        "appUrl": "youversion://bible?reference=LUK.8.19-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:19-21"
+      },
+      {
+        "label": "Mark 4:1–13",
+        "appUrl": "youversion://bible?reference=MRK.4.1-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%204:1-13"
+      }
     ]
   },
   {
@@ -1334,6 +2125,13 @@
       {
         "label": "Mark 4:14–32",
         "url": "https://www.bible.com/bible/116/MRK.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 4:14–32",
+        "appUrl": "youversion://bible?reference=MRK.4.14-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%204:14-32"
       }
     ]
   },
@@ -1357,6 +2155,18 @@
         "label": "Matthew 13:1–17",
         "url": "https://www.bible.com/bible/116/MAT.13.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 4:33–34",
+        "appUrl": "youversion://bible?reference=MRK.4.33-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%204:33-34"
+      },
+      {
+        "label": "Matthew 13:1–17",
+        "appUrl": "youversion://bible?reference=MAT.13.1-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2013:1-17"
+      }
     ]
   },
   {
@@ -1373,6 +2183,13 @@
       {
         "label": "Matthew 13:18–36",
         "url": "https://www.bible.com/bible/116/MAT.13.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 13:18–36",
+        "appUrl": "youversion://bible?reference=MAT.13.18-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2013:18-36"
       }
     ]
   },
@@ -1396,6 +2213,18 @@
         "label": "Luke 8:4–5",
         "url": "https://www.bible.com/bible/116/LUK.8.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 13:37–53",
+        "appUrl": "youversion://bible?reference=MAT.13.37-53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2013:37-53"
+      },
+      {
+        "label": "Luke 8:4–5",
+        "appUrl": "youversion://bible?reference=LUK.8.4-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:4-5"
+      }
     ]
   },
   {
@@ -1417,6 +2246,18 @@
       {
         "label": "Mark 4:35–40",
         "url": "https://www.bible.com/bible/116/MRK.4.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 8:6–18",
+        "appUrl": "youversion://bible?reference=LUK.8.6-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:6-18"
+      },
+      {
+        "label": "Mark 4:35–40",
+        "appUrl": "youversion://bible?reference=MRK.4.35-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%204:35-40"
       }
     ]
   },
@@ -1455,6 +2296,33 @@
         "label": "Mark 5:1–8",
         "url": "https://www.bible.com/bible/116/MRK.5.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 4:41",
+        "appUrl": "youversion://bible?reference=MRK.4.41",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%204:41"
+      },
+      {
+        "label": "Matthew 8:18",
+        "appUrl": "youversion://bible?reference=MAT.8.18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:18"
+      },
+      {
+        "label": "Matthew 8:23–27",
+        "appUrl": "youversion://bible?reference=MAT.8.23-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:23-27"
+      },
+      {
+        "label": "Luke 8:22–25",
+        "appUrl": "youversion://bible?reference=LUK.8.22-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:22-25"
+      },
+      {
+        "label": "Mark 5:1–8",
+        "appUrl": "youversion://bible?reference=MRK.5.1-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%205:1-8"
+      }
     ]
   },
   {
@@ -1476,6 +2344,18 @@
       {
         "label": "Matthew 8:28–34",
         "url": "https://www.bible.com/bible/116/MAT.8.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 5:9–20",
+        "appUrl": "youversion://bible?reference=MRK.5.9-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%205:9-20"
+      },
+      {
+        "label": "Matthew 8:28–34",
+        "appUrl": "youversion://bible?reference=MAT.8.28-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:28-34"
       }
     ]
   },
@@ -1499,6 +2379,18 @@
         "label": "Mark 5:21–25",
         "url": "https://www.bible.com/bible/116/MRK.5.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 8:26–39",
+        "appUrl": "youversion://bible?reference=LUK.8.26-39",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:26-39"
+      },
+      {
+        "label": "Mark 5:21–25",
+        "appUrl": "youversion://bible?reference=MRK.5.21-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%205:21-25"
+      }
     ]
   },
   {
@@ -1521,6 +2413,18 @@
         "label": "Matthew 9:18",
         "url": "https://www.bible.com/bible/116/MAT.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 5:26–43",
+        "appUrl": "youversion://bible?reference=MRK.5.26-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%205:26-43"
+      },
+      {
+        "label": "Matthew 9:18",
+        "appUrl": "youversion://bible?reference=MAT.9.18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:18"
+      }
     ]
   },
   {
@@ -1542,6 +2446,18 @@
       {
         "label": "Luke 8:40–50",
         "url": "https://www.bible.com/bible/116/LUK.8.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 9:19–26",
+        "appUrl": "youversion://bible?reference=MAT.9.19-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:19-26"
+      },
+      {
+        "label": "Luke 8:40–50",
+        "appUrl": "youversion://bible?reference=LUK.8.40-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:40-50"
       }
     ]
   },
@@ -1569,6 +2485,23 @@
       {
         "label": "Mark 6:1–5",
         "url": "https://www.bible.com/bible/116/MRK.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 8:51–56",
+        "appUrl": "youversion://bible?reference=LUK.8.51-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%208:51-56"
+      },
+      {
+        "label": "Matthew 9:27–34",
+        "appUrl": "youversion://bible?reference=MAT.9.27-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:27-34"
+      },
+      {
+        "label": "Mark 6:1–5",
+        "appUrl": "youversion://bible?reference=MRK.6.1-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:1-5"
       }
     ]
   },
@@ -1607,6 +2540,33 @@
         "label": "Matthew 10:1–2",
         "url": "https://www.bible.com/bible/116/MAT.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 6:6",
+        "appUrl": "youversion://bible?reference=MRK.6.6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:6"
+      },
+      {
+        "label": "Matthew 13:54–58",
+        "appUrl": "youversion://bible?reference=MAT.13.54-58",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2013:54-58"
+      },
+      {
+        "label": "Mark 6:7–13",
+        "appUrl": "youversion://bible?reference=MRK.6.7-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:7-13"
+      },
+      {
+        "label": "Matthew 9:35–38",
+        "appUrl": "youversion://bible?reference=MAT.9.35-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%209:35-38"
+      },
+      {
+        "label": "Matthew 10:1–2",
+        "appUrl": "youversion://bible?reference=MAT.10.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2010:1-2"
+      }
     ]
   },
   {
@@ -1624,6 +2584,13 @@
         "label": "Matthew 10:3–21",
         "url": "https://www.bible.com/bible/116/MAT.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 10:3–21",
+        "appUrl": "youversion://bible?reference=MAT.10.3-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2010:3-21"
+      }
     ]
   },
   {
@@ -1640,6 +2607,13 @@
       {
         "label": "Matthew 10:22–40",
         "url": "https://www.bible.com/bible/116/MAT.10.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 10:22–40",
+        "appUrl": "youversion://bible?reference=MAT.10.22-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2010:22-40"
       }
     ]
   },
@@ -1673,6 +2647,28 @@
         "label": "Mark 6:14–23",
         "url": "https://www.bible.com/bible/116/MRK.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 10:41–42",
+        "appUrl": "youversion://bible?reference=MAT.10.41-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2010:41-42"
+      },
+      {
+        "label": "Matthew 11:1",
+        "appUrl": "youversion://bible?reference=MAT.11.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2011:1"
+      },
+      {
+        "label": "Luke 9:1–6",
+        "appUrl": "youversion://bible?reference=LUK.9.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:1-6"
+      },
+      {
+        "label": "Mark 6:14–23",
+        "appUrl": "youversion://bible?reference=MRK.6.14-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:14-23"
+      }
     ]
   },
   {
@@ -1699,6 +2695,23 @@
       {
         "label": "Luke 9:7",
         "url": "https://www.bible.com/bible/116/LUK.9.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 6:24–29",
+        "appUrl": "youversion://bible?reference=MRK.6.24-29",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:24-29"
+      },
+      {
+        "label": "Matthew 14:1–12",
+        "appUrl": "youversion://bible?reference=MAT.14.1-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:1-12"
+      },
+      {
+        "label": "Luke 9:7",
+        "appUrl": "youversion://bible?reference=LUK.9.7",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:7"
       }
     ]
   },
@@ -1727,6 +2740,23 @@
         "label": "Matthew 14:13–14",
         "url": "https://www.bible.com/bible/116/MAT.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 9:8–9",
+        "appUrl": "youversion://bible?reference=LUK.9.8-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:8-9"
+      },
+      {
+        "label": "Mark 6:30–44",
+        "appUrl": "youversion://bible?reference=MRK.6.30-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:30-44"
+      },
+      {
+        "label": "Matthew 14:13–14",
+        "appUrl": "youversion://bible?reference=MAT.14.13-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:13-14"
+      }
     ]
   },
   {
@@ -1753,6 +2783,23 @@
       {
         "label": "John 6:1–4",
         "url": "https://www.bible.com/bible/116/JHN.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 14:15–21",
+        "appUrl": "youversion://bible?reference=MAT.14.15-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:15-21"
+      },
+      {
+        "label": "Luke 9:10–17",
+        "appUrl": "youversion://bible?reference=LUK.9.10-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:10-17"
+      },
+      {
+        "label": "John 6:1–4",
+        "appUrl": "youversion://bible?reference=JHN.6.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:1-4"
       }
     ]
   },
@@ -1791,6 +2838,33 @@
         "label": "Mark 6:47–50",
         "url": "https://www.bible.com/bible/116/MRK.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 6:5–13",
+        "appUrl": "youversion://bible?reference=JHN.6.5-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:5-13"
+      },
+      {
+        "label": "Mark 6:45–46",
+        "appUrl": "youversion://bible?reference=MRK.6.45-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:45-46"
+      },
+      {
+        "label": "Matthew 14:22–23",
+        "appUrl": "youversion://bible?reference=MAT.14.22-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:22-23"
+      },
+      {
+        "label": "John 6:14–15",
+        "appUrl": "youversion://bible?reference=JHN.6.14-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:14-15"
+      },
+      {
+        "label": "Mark 6:47–50",
+        "appUrl": "youversion://bible?reference=MRK.6.47-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:47-50"
+      }
     ]
   },
   {
@@ -1823,6 +2897,28 @@
         "label": "Mark 6:53",
         "url": "https://www.bible.com/bible/116/MRK.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 6:51–52",
+        "appUrl": "youversion://bible?reference=MRK.6.51-52",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:51-52"
+      },
+      {
+        "label": "Matthew 14:24–33",
+        "appUrl": "youversion://bible?reference=MAT.14.24-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:24-33"
+      },
+      {
+        "label": "John 6:16–21",
+        "appUrl": "youversion://bible?reference=JHN.6.16-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:16-21"
+      },
+      {
+        "label": "Mark 6:53",
+        "appUrl": "youversion://bible?reference=MRK.6.53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:53"
+      }
     ]
   },
   {
@@ -1850,6 +2946,23 @@
         "label": "John 6:22–34",
         "url": "https://www.bible.com/bible/116/JHN.6.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 6:54–56",
+        "appUrl": "youversion://bible?reference=MRK.6.54-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%206:54-56"
+      },
+      {
+        "label": "Matthew 14:34–36",
+        "appUrl": "youversion://bible?reference=MAT.14.34-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2014:34-36"
+      },
+      {
+        "label": "John 6:22–34",
+        "appUrl": "youversion://bible?reference=JHN.6.22-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:22-34"
+      }
     ]
   },
   {
@@ -1866,6 +2979,13 @@
       {
         "label": "John 6:35–53",
         "url": "https://www.bible.com/bible/116/JHN.6.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 6:35–53",
+        "appUrl": "youversion://bible?reference=JHN.6.35-53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:35-53"
       }
     ]
   },
@@ -1889,6 +3009,18 @@
         "label": "Mark 7:1",
         "url": "https://www.bible.com/bible/116/MRK.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 6:54–71",
+        "appUrl": "youversion://bible?reference=JHN.6.54-71",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%206:54-71"
+      },
+      {
+        "label": "Mark 7:1",
+        "appUrl": "youversion://bible?reference=MRK.7.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%207:1"
+      }
     ]
   },
   {
@@ -1905,6 +3037,13 @@
       {
         "label": "Mark 7:2–20",
         "url": "https://www.bible.com/bible/116/MRK.7.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 7:2–20",
+        "appUrl": "youversion://bible?reference=MRK.7.2-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%207:2-20"
       }
     ]
   },
@@ -1927,6 +3066,18 @@
       {
         "label": "Matthew 15:1–16",
         "url": "https://www.bible.com/bible/116/MAT.15.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 7:21–23",
+        "appUrl": "youversion://bible?reference=MRK.7.21-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%207:21-23"
+      },
+      {
+        "label": "Matthew 15:1–16",
+        "appUrl": "youversion://bible?reference=MAT.15.1-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:1-16"
       }
     ]
   },
@@ -1960,6 +3111,28 @@
         "label": "Matthew 15:21–27",
         "url": "https://www.bible.com/bible/116/MAT.15.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 15:17–20",
+        "appUrl": "youversion://bible?reference=MAT.15.17-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:17-20"
+      },
+      {
+        "label": "John 7:1",
+        "appUrl": "youversion://bible?reference=JHN.7.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:1"
+      },
+      {
+        "label": "Mark 7:24–30",
+        "appUrl": "youversion://bible?reference=MRK.7.24-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%207:24-30"
+      },
+      {
+        "label": "Matthew 15:21–27",
+        "appUrl": "youversion://bible?reference=MAT.15.21-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:21-27"
+      }
     ]
   },
   {
@@ -1991,6 +3164,28 @@
       {
         "label": "Matthew 15:29–30",
         "url": "https://www.bible.com/bible/116/MAT.15.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 15:28",
+        "appUrl": "youversion://bible?reference=MAT.15.28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:28"
+      },
+      {
+        "label": "Mark 7:31–37",
+        "appUrl": "youversion://bible?reference=MRK.7.31-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%207:31-37"
+      },
+      {
+        "label": "Mark 8:1–9",
+        "appUrl": "youversion://bible?reference=MRK.8.1-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:1-9"
+      },
+      {
+        "label": "Matthew 15:29–30",
+        "appUrl": "youversion://bible?reference=MAT.15.29-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:29-30"
       }
     ]
   },
@@ -2029,6 +3224,33 @@
         "label": "Mark 8:13–15",
         "url": "https://www.bible.com/bible/116/MRK.8.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 15:31–38",
+        "appUrl": "youversion://bible?reference=MAT.15.31-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:31-38"
+      },
+      {
+        "label": "Mark 8:10–12",
+        "appUrl": "youversion://bible?reference=MRK.8.10-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:10-12"
+      },
+      {
+        "label": "Matthew 15:39",
+        "appUrl": "youversion://bible?reference=MAT.15.39",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2015:39"
+      },
+      {
+        "label": "Matthew 16:1–4",
+        "appUrl": "youversion://bible?reference=MAT.16.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2016:1-4"
+      },
+      {
+        "label": "Mark 8:13–15",
+        "appUrl": "youversion://bible?reference=MRK.8.13-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:13-15"
+      }
     ]
   },
   {
@@ -2050,6 +3272,18 @@
       {
         "label": "Matthew 16:5–12",
         "url": "https://www.bible.com/bible/116/MAT.16.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 8:16–26",
+        "appUrl": "youversion://bible?reference=MRK.8.16-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:16-26"
+      },
+      {
+        "label": "Matthew 16:5–12",
+        "appUrl": "youversion://bible?reference=MAT.16.5-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2016:5-12"
       }
     ]
   },
@@ -2082,6 +3316,28 @@
       {
         "label": "Mark 8:31–33",
         "url": "https://www.bible.com/bible/116/MRK.8.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 8:27–30",
+        "appUrl": "youversion://bible?reference=MRK.8.27-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:27-30"
+      },
+      {
+        "label": "Matthew 16:13–20",
+        "appUrl": "youversion://bible?reference=MAT.16.13-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2016:13-20"
+      },
+      {
+        "label": "Luke 9:18–21",
+        "appUrl": "youversion://bible?reference=LUK.9.18-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:18-21"
+      },
+      {
+        "label": "Mark 8:31–33",
+        "appUrl": "youversion://bible?reference=MRK.8.31-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:31-33"
       }
     ]
   },
@@ -2130,6 +3386,43 @@
         "label": "Luke 9:26",
         "url": "https://www.bible.com/bible/116/LUK.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 8:34–37",
+        "appUrl": "youversion://bible?reference=MRK.8.34-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:34-37"
+      },
+      {
+        "label": "Matthew 16:21–26",
+        "appUrl": "youversion://bible?reference=MAT.16.21-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2016:21-26"
+      },
+      {
+        "label": "Luke 9:22–25",
+        "appUrl": "youversion://bible?reference=LUK.9.22-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:22-25"
+      },
+      {
+        "label": "Mark 8:38",
+        "appUrl": "youversion://bible?reference=MRK.8.38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%208:38"
+      },
+      {
+        "label": "Mark 9:1",
+        "appUrl": "youversion://bible?reference=MRK.9.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:1"
+      },
+      {
+        "label": "Matthew 16:27–28",
+        "appUrl": "youversion://bible?reference=MAT.16.27-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2016:27-28"
+      },
+      {
+        "label": "Luke 9:26",
+        "appUrl": "youversion://bible?reference=LUK.9.26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:26"
+      }
     ]
   },
   {
@@ -2161,6 +3454,28 @@
       {
         "label": "Luke 9:28–30",
         "url": "https://www.bible.com/bible/116/LUK.9.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 9:27",
+        "appUrl": "youversion://bible?reference=LUK.9.27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:27"
+      },
+      {
+        "label": "Mark 9:2–8",
+        "appUrl": "youversion://bible?reference=MRK.9.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:2-8"
+      },
+      {
+        "label": "Matthew 17:1–8",
+        "appUrl": "youversion://bible?reference=MAT.17.1-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:1-8"
+      },
+      {
+        "label": "Luke 9:28–30",
+        "appUrl": "youversion://bible?reference=LUK.9.28-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:28-30"
       }
     ]
   },
@@ -2194,6 +3509,28 @@
         "label": "Mark 9:14–16",
         "url": "https://www.bible.com/bible/116/MRK.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 9:31–36",
+        "appUrl": "youversion://bible?reference=LUK.9.31-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:31-36"
+      },
+      {
+        "label": "Mark 9:9–13",
+        "appUrl": "youversion://bible?reference=MRK.9.9-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:9-13"
+      },
+      {
+        "label": "Matthew 17:9–13",
+        "appUrl": "youversion://bible?reference=MAT.17.9-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:9-13"
+      },
+      {
+        "label": "Mark 9:14–16",
+        "appUrl": "youversion://bible?reference=MRK.9.14-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:14-16"
+      }
     ]
   },
   {
@@ -2215,6 +3552,18 @@
       {
         "label": "Matthew 17:14–19",
         "url": "https://www.bible.com/bible/116/MAT.17.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 9:17–29",
+        "appUrl": "youversion://bible?reference=MRK.9.17-29",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:17-29"
+      },
+      {
+        "label": "Matthew 17:14–19",
+        "appUrl": "youversion://bible?reference=MAT.17.14-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:14-19"
       }
     ]
   },
@@ -2258,6 +3607,38 @@
         "label": "Matthew 17:24–26",
         "url": "https://www.bible.com/bible/116/MAT.17.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 17:20–21",
+        "appUrl": "youversion://bible?reference=MAT.17.20-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:20-21"
+      },
+      {
+        "label": "Luke 9:37–43",
+        "appUrl": "youversion://bible?reference=LUK.9.37-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:37-43"
+      },
+      {
+        "label": "Mark 9:30–32",
+        "appUrl": "youversion://bible?reference=MRK.9.30-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:30-32"
+      },
+      {
+        "label": "Matthew 17:22–23",
+        "appUrl": "youversion://bible?reference=MAT.17.22-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:22-23"
+      },
+      {
+        "label": "Luke 9:44–45",
+        "appUrl": "youversion://bible?reference=LUK.9.44-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:44-45"
+      },
+      {
+        "label": "Matthew 17:24–26",
+        "appUrl": "youversion://bible?reference=MAT.17.24-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:24-26"
+      }
     ]
   },
   {
@@ -2295,6 +3676,33 @@
         "label": "Mark 9:38–42",
         "url": "https://www.bible.com/bible/116/MRK.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 17:27",
+        "appUrl": "youversion://bible?reference=MAT.17.27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2017:27"
+      },
+      {
+        "label": "Mark 9:33–37",
+        "appUrl": "youversion://bible?reference=MRK.9.33-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:33-37"
+      },
+      {
+        "label": "Matthew 18:1–5",
+        "appUrl": "youversion://bible?reference=MAT.18.1-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2018:1-5"
+      },
+      {
+        "label": "Luke 9:46–48",
+        "appUrl": "youversion://bible?reference=LUK.9.46-48",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:46-48"
+      },
+      {
+        "label": "Mark 9:38–42",
+        "appUrl": "youversion://bible?reference=MRK.9.38-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:38-42"
+      }
     ]
   },
   {
@@ -2322,6 +3730,23 @@
         "label": "Luke 9:49–50",
         "url": "https://www.bible.com/bible/116/LUK.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 9:43–50",
+        "appUrl": "youversion://bible?reference=MRK.9.43-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%209:43-50"
+      },
+      {
+        "label": "Matthew 18:6–14",
+        "appUrl": "youversion://bible?reference=MAT.18.6-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2018:6-14"
+      },
+      {
+        "label": "Luke 9:49–50",
+        "appUrl": "youversion://bible?reference=LUK.9.49-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:49-50"
+      }
     ]
   },
   {
@@ -2338,6 +3763,13 @@
       {
         "label": "Matthew 18:15–33",
         "url": "https://www.bible.com/bible/116/MAT.18.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 18:15–33",
+        "appUrl": "youversion://bible?reference=MAT.18.15-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2018:15-33"
       }
     ]
   },
@@ -2371,6 +3803,28 @@
         "label": "John 7:2–8",
         "url": "https://www.bible.com/bible/116/JHN.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 18:34–35",
+        "appUrl": "youversion://bible?reference=MAT.18.34-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2018:34-35"
+      },
+      {
+        "label": "Matthew 8:19–22",
+        "appUrl": "youversion://bible?reference=MAT.8.19-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%208:19-22"
+      },
+      {
+        "label": "Luke 9:57–62",
+        "appUrl": "youversion://bible?reference=LUK.9.57-62",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:57-62"
+      },
+      {
+        "label": "John 7:2–8",
+        "appUrl": "youversion://bible?reference=JHN.7.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:2-8"
+      }
     ]
   },
   {
@@ -2398,6 +3852,23 @@
         "label": "John 7:10–21",
         "url": "https://www.bible.com/bible/116/JHN.7.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 7:9",
+        "appUrl": "youversion://bible?reference=JHN.7.9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:9"
+      },
+      {
+        "label": "Luke 9:51–56",
+        "appUrl": "youversion://bible?reference=LUK.9.51-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%209:51-56"
+      },
+      {
+        "label": "John 7:10–21",
+        "appUrl": "youversion://bible?reference=JHN.7.10-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:10-21"
+      }
     ]
   },
   {
@@ -2414,6 +3885,13 @@
       {
         "label": "John 7:22–40",
         "url": "https://www.bible.com/bible/116/JHN.7.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 7:22–40",
+        "appUrl": "youversion://bible?reference=JHN.7.22-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:22-40"
       }
     ]
   },
@@ -2437,6 +3915,18 @@
         "label": "John 8:1–6",
         "url": "https://www.bible.com/bible/116/JHN.8.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 7:41–53",
+        "appUrl": "youversion://bible?reference=JHN.7.41-53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%207:41-53"
+      },
+      {
+        "label": "John 8:1–6",
+        "appUrl": "youversion://bible?reference=JHN.8.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%208:1-6"
+      }
     ]
   },
   {
@@ -2454,6 +3944,13 @@
         "label": "John 8:7–25",
         "url": "https://www.bible.com/bible/116/JHN.8.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 8:7–25",
+        "appUrl": "youversion://bible?reference=JHN.8.7-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%208:7-25"
+      }
     ]
   },
   {
@@ -2470,6 +3967,13 @@
       {
         "label": "John 8:26–44",
         "url": "https://www.bible.com/bible/116/JHN.8.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 8:26–44",
+        "appUrl": "youversion://bible?reference=JHN.8.26-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%208:26-44"
       }
     ]
   },
@@ -2493,6 +3997,18 @@
         "label": "John 9:1–4",
         "url": "https://www.bible.com/bible/116/JHN.9.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 8:45–59",
+        "appUrl": "youversion://bible?reference=JHN.8.45-59",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%208:45-59"
+      },
+      {
+        "label": "John 9:1–4",
+        "appUrl": "youversion://bible?reference=JHN.9.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%209:1-4"
+      }
     ]
   },
   {
@@ -2509,6 +4025,13 @@
       {
         "label": "John 9:5–23",
         "url": "https://www.bible.com/bible/116/JHN.9.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 9:5–23",
+        "appUrl": "youversion://bible?reference=JHN.9.5-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%209:5-23"
       }
     ]
   },
@@ -2532,6 +4055,18 @@
         "label": "John 10:1",
         "url": "https://www.bible.com/bible/116/JHN.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 9:24–41",
+        "appUrl": "youversion://bible?reference=JHN.9.24-41",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%209:24-41"
+      },
+      {
+        "label": "John 10:1",
+        "appUrl": "youversion://bible?reference=JHN.10.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2010:1"
+      }
     ]
   },
   {
@@ -2548,6 +4083,13 @@
       {
         "label": "John 10:2–20",
         "url": "https://www.bible.com/bible/116/JHN.10.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 10:2–20",
+        "appUrl": "youversion://bible?reference=JHN.10.2-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2010:2-20"
       }
     ]
   },
@@ -2571,6 +4113,18 @@
         "label": "Luke 10:1–18",
         "url": "https://www.bible.com/bible/116/LUK.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 10:21",
+        "appUrl": "youversion://bible?reference=JHN.10.21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2010:21"
+      },
+      {
+        "label": "Luke 10:1–18",
+        "appUrl": "youversion://bible?reference=LUK.10.1-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2010:1-18"
+      }
     ]
   },
   {
@@ -2587,6 +4141,13 @@
       {
         "label": "Luke 10:19–37",
         "url": "https://www.bible.com/bible/116/LUK.10.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 10:19–37",
+        "appUrl": "youversion://bible?reference=LUK.10.19-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2010:19-37"
       }
     ]
   },
@@ -2610,6 +4171,18 @@
         "label": "Luke 11:1–14",
         "url": "https://www.bible.com/bible/116/LUK.11.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 10:38–42",
+        "appUrl": "youversion://bible?reference=LUK.10.38-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2010:38-42"
+      },
+      {
+        "label": "Luke 11:1–14",
+        "appUrl": "youversion://bible?reference=LUK.11.1-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2011:1-14"
+      }
     ]
   },
   {
@@ -2627,6 +4200,13 @@
         "label": "Luke 11:15–33",
         "url": "https://www.bible.com/bible/116/LUK.11.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 11:15–33",
+        "appUrl": "youversion://bible?reference=LUK.11.15-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2011:15-33"
+      }
     ]
   },
   {
@@ -2643,6 +4223,13 @@
       {
         "label": "Luke 11:34–52",
         "url": "https://www.bible.com/bible/116/LUK.11.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 11:34–52",
+        "appUrl": "youversion://bible?reference=LUK.11.34-52",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2011:34-52"
       }
     ]
   },
@@ -2666,6 +4253,18 @@
         "label": "Luke 12:1–17",
         "url": "https://www.bible.com/bible/116/LUK.12.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 11:53–54",
+        "appUrl": "youversion://bible?reference=LUK.11.53-54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2011:53-54"
+      },
+      {
+        "label": "Luke 12:1–17",
+        "appUrl": "youversion://bible?reference=LUK.12.1-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2012:1-17"
+      }
     ]
   },
   {
@@ -2683,6 +4282,13 @@
         "label": "Luke 12:18–36",
         "url": "https://www.bible.com/bible/116/LUK.12.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 12:18–36",
+        "appUrl": "youversion://bible?reference=LUK.12.18-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2012:18-36"
+      }
     ]
   },
   {
@@ -2699,6 +4305,13 @@
       {
         "label": "Luke 12:37–55",
         "url": "https://www.bible.com/bible/116/LUK.12.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 12:37–55",
+        "appUrl": "youversion://bible?reference=LUK.12.37-55",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2012:37-55"
       }
     ]
   },
@@ -2722,6 +4335,18 @@
         "label": "Luke 13:1–15",
         "url": "https://www.bible.com/bible/116/LUK.13.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 12:56–59",
+        "appUrl": "youversion://bible?reference=LUK.12.56-59",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2012:56-59"
+      },
+      {
+        "label": "Luke 13:1–15",
+        "appUrl": "youversion://bible?reference=LUK.13.1-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2013:1-15"
+      }
     ]
   },
   {
@@ -2743,6 +4368,18 @@
       {
         "label": "John 10:22–34",
         "url": "https://www.bible.com/bible/116/JHN.10.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 13:16–21",
+        "appUrl": "youversion://bible?reference=LUK.13.16-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2013:16-21"
+      },
+      {
+        "label": "John 10:22–34",
+        "appUrl": "youversion://bible?reference=JHN.10.22-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2010:22-34"
       }
     ]
   },
@@ -2766,6 +4403,18 @@
         "label": "Luke 13:22–32",
         "url": "https://www.bible.com/bible/116/LUK.13.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 10:35–42",
+        "appUrl": "youversion://bible?reference=JHN.10.35-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2010:35-42"
+      },
+      {
+        "label": "Luke 13:22–32",
+        "appUrl": "youversion://bible?reference=LUK.13.22-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2013:22-32"
+      }
     ]
   },
   {
@@ -2788,6 +4437,18 @@
         "label": "Luke 14:1–16",
         "url": "https://www.bible.com/bible/116/LUK.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 13:33–35",
+        "appUrl": "youversion://bible?reference=LUK.13.33-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2013:33-35"
+      },
+      {
+        "label": "Luke 14:1–16",
+        "appUrl": "youversion://bible?reference=LUK.14.1-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2014:1-16"
+      }
     ]
   },
   {
@@ -2805,6 +4466,13 @@
         "label": "Luke 14:17–35",
         "url": "https://www.bible.com/bible/116/LUK.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 14:17–35",
+        "appUrl": "youversion://bible?reference=LUK.14.17-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2014:17-35"
+      }
     ]
   },
   {
@@ -2821,6 +4489,13 @@
       {
         "label": "Luke 15:1–19",
         "url": "https://www.bible.com/bible/116/LUK.15.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 15:1–19",
+        "appUrl": "youversion://bible?reference=LUK.15.1-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2015:1-19"
       }
     ]
   },
@@ -2844,6 +4519,18 @@
         "label": "Luke 16:1–6",
         "url": "https://www.bible.com/bible/116/LUK.16.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 15:20–32",
+        "appUrl": "youversion://bible?reference=LUK.15.20-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2015:20-32"
+      },
+      {
+        "label": "Luke 16:1–6",
+        "appUrl": "youversion://bible?reference=LUK.16.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2016:1-6"
+      }
     ]
   },
   {
@@ -2860,6 +4547,13 @@
       {
         "label": "Luke 16:7–25",
         "url": "https://www.bible.com/bible/116/LUK.16.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 16:7–25",
+        "appUrl": "youversion://bible?reference=LUK.16.7-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2016:7-25"
       }
     ]
   },
@@ -2888,6 +4582,23 @@
         "label": "John 11:1–3",
         "url": "https://www.bible.com/bible/116/JHN.11.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 16:26–31",
+        "appUrl": "youversion://bible?reference=LUK.16.26-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2016:26-31"
+      },
+      {
+        "label": "Luke 17:1–10",
+        "appUrl": "youversion://bible?reference=LUK.17.1-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2017:1-10"
+      },
+      {
+        "label": "John 11:1–3",
+        "appUrl": "youversion://bible?reference=JHN.11.1-3",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:1-3"
+      }
     ]
   },
   {
@@ -2905,6 +4616,13 @@
         "label": "John 11:4–22",
         "url": "https://www.bible.com/bible/116/JHN.11.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 11:4–22",
+        "appUrl": "youversion://bible?reference=JHN.11.4-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:4-22"
+      }
     ]
   },
   {
@@ -2921,6 +4639,13 @@
       {
         "label": "John 11:23–41",
         "url": "https://www.bible.com/bible/116/JHN.11.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 11:23–41",
+        "appUrl": "youversion://bible?reference=JHN.11.23-41",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:23-41"
       }
     ]
   },
@@ -2944,6 +4669,18 @@
         "label": "Luke 17:11–16",
         "url": "https://www.bible.com/bible/116/LUK.17.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 11:42–54",
+        "appUrl": "youversion://bible?reference=JHN.11.42-54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:42-54"
+      },
+      {
+        "label": "Luke 17:11–16",
+        "appUrl": "youversion://bible?reference=LUK.17.11-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2017:11-16"
+      }
     ]
   },
   {
@@ -2960,6 +4697,13 @@
       {
         "label": "Luke 17:17–35",
         "url": "https://www.bible.com/bible/116/LUK.17.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 17:17–35",
+        "appUrl": "youversion://bible?reference=LUK.17.17-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2017:17-35"
       }
     ]
   },
@@ -2988,6 +4732,23 @@
         "label": "Mark 10:1–3",
         "url": "https://www.bible.com/bible/116/MRK.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 17:36–37",
+        "appUrl": "youversion://bible?reference=LUK.17.36-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2017:36-37"
+      },
+      {
+        "label": "Luke 18:1–14",
+        "appUrl": "youversion://bible?reference=LUK.18.1-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2018:1-14"
+      },
+      {
+        "label": "Mark 10:1–3",
+        "appUrl": "youversion://bible?reference=MRK.10.1-3",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:1-3"
+      }
     ]
   },
   {
@@ -3009,6 +4770,18 @@
       {
         "label": "Matthew 19:1–10",
         "url": "https://www.bible.com/bible/116/MAT.19.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 10:4–12",
+        "appUrl": "youversion://bible?reference=MRK.10.4-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:4-12"
+      },
+      {
+        "label": "Matthew 19:1–10",
+        "appUrl": "youversion://bible?reference=MAT.19.1-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2019:1-10"
       }
     ]
   },
@@ -3047,6 +4820,33 @@
         "label": "Mark 10:17–23",
         "url": "https://www.bible.com/bible/116/MRK.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 19:11–12",
+        "appUrl": "youversion://bible?reference=MAT.19.11-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2019:11-12"
+      },
+      {
+        "label": "Mark 10:13–16",
+        "appUrl": "youversion://bible?reference=MRK.10.13-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:13-16"
+      },
+      {
+        "label": "Matthew 19:13–15",
+        "appUrl": "youversion://bible?reference=MAT.19.13-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2019:13-15"
+      },
+      {
+        "label": "Luke 18:15–17",
+        "appUrl": "youversion://bible?reference=LUK.18.15-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2018:15-17"
+      },
+      {
+        "label": "Mark 10:17–23",
+        "appUrl": "youversion://bible?reference=MRK.10.17-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:17-23"
+      }
     ]
   },
   {
@@ -3069,6 +4869,18 @@
         "label": "Matthew 19:16–26",
         "url": "https://www.bible.com/bible/116/MAT.19.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 10:24–31",
+        "appUrl": "youversion://bible?reference=MRK.10.24-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:24-31"
+      },
+      {
+        "label": "Matthew 19:16–26",
+        "appUrl": "youversion://bible?reference=MAT.19.16-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2019:16-26"
+      }
     ]
   },
   {
@@ -3090,6 +4902,18 @@
       {
         "label": "Matthew 20:1–15",
         "url": "https://www.bible.com/bible/116/MAT.20.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 19:27–30",
+        "appUrl": "youversion://bible?reference=MAT.19.27-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2019:27-30"
+      },
+      {
+        "label": "Matthew 20:1–15",
+        "appUrl": "youversion://bible?reference=MAT.20.1-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2020:1-15"
       }
     ]
   },
@@ -3118,6 +4942,23 @@
         "label": "Mark 10:32–36",
         "url": "https://www.bible.com/bible/116/MRK.10.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 20:16",
+        "appUrl": "youversion://bible?reference=MAT.20.16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2020:16"
+      },
+      {
+        "label": "Luke 18:18–30",
+        "appUrl": "youversion://bible?reference=LUK.18.18-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2018:18-30"
+      },
+      {
+        "label": "Mark 10:32–36",
+        "appUrl": "youversion://bible?reference=MRK.10.32-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:32-36"
+      }
     ]
   },
   {
@@ -3139,6 +4980,18 @@
       {
         "label": "Matthew 20:17–26",
         "url": "https://www.bible.com/bible/116/MAT.20.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 10:37–45",
+        "appUrl": "youversion://bible?reference=MRK.10.37-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:37-45"
+      },
+      {
+        "label": "Matthew 20:17–26",
+        "appUrl": "youversion://bible?reference=MAT.20.17-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2020:17-26"
       }
     ]
   },
@@ -3172,6 +5025,28 @@
         "label": "Matthew 20:29–34",
         "url": "https://www.bible.com/bible/116/MAT.20.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 20:27–28",
+        "appUrl": "youversion://bible?reference=MAT.20.27-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2020:27-28"
+      },
+      {
+        "label": "Luke 18:31–34",
+        "appUrl": "youversion://bible?reference=LUK.18.31-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2018:31-34"
+      },
+      {
+        "label": "Mark 10:46–52",
+        "appUrl": "youversion://bible?reference=MRK.10.46-52",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2010:46-52"
+      },
+      {
+        "label": "Matthew 20:29–34",
+        "appUrl": "youversion://bible?reference=MAT.20.29-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2020:29-34"
+      }
     ]
   },
   {
@@ -3194,6 +5069,18 @@
         "label": "Luke 19:1–10",
         "url": "https://www.bible.com/bible/116/LUK.19.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 18:35–43",
+        "appUrl": "youversion://bible?reference=LUK.18.35-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2018:35-43"
+      },
+      {
+        "label": "Luke 19:1–10",
+        "appUrl": "youversion://bible?reference=LUK.19.1-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2019:1-10"
+      }
     ]
   },
   {
@@ -3215,6 +5102,18 @@
       {
         "label": "John 11:55",
         "url": "https://www.bible.com/bible/116/JHN.11.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 19:11–28",
+        "appUrl": "youversion://bible?reference=LUK.19.11-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2019:11-28"
+      },
+      {
+        "label": "John 11:55",
+        "appUrl": "youversion://bible?reference=JHN.11.55",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:55"
       }
     ]
   },
@@ -3253,6 +5152,33 @@
         "label": "Matthew 21:1–2",
         "url": "https://www.bible.com/bible/116/MAT.21.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 11:56–57",
+        "appUrl": "youversion://bible?reference=JHN.11.56-57",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2011:56-57"
+      },
+      {
+        "label": "John 12:1",
+        "appUrl": "youversion://bible?reference=JHN.12.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:1"
+      },
+      {
+        "label": "John 12:9–11",
+        "appUrl": "youversion://bible?reference=JHN.12.9-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:9-11"
+      },
+      {
+        "label": "Mark 11:1–11",
+        "appUrl": "youversion://bible?reference=MRK.11.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2011:1-11"
+      },
+      {
+        "label": "Matthew 21:1–2",
+        "appUrl": "youversion://bible?reference=MAT.21.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:1-2"
+      }
     ]
   },
   {
@@ -3280,6 +5206,23 @@
         "label": "Luke 19:29–34",
         "url": "https://www.bible.com/bible/116/LUK.19.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 21:3–11",
+        "appUrl": "youversion://bible?reference=MAT.21.3-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:3-11"
+      },
+      {
+        "label": "Matthew 21:14–17",
+        "appUrl": "youversion://bible?reference=MAT.21.14-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:14-17"
+      },
+      {
+        "label": "Luke 19:29–34",
+        "appUrl": "youversion://bible?reference=LUK.19.29-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2019:29-34"
+      }
     ]
   },
   {
@@ -3306,6 +5249,23 @@
       {
         "label": "Mark 11:12",
         "url": "https://www.bible.com/bible/116/MRK.11.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 19:35–44",
+        "appUrl": "youversion://bible?reference=LUK.19.35-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2019:35-44"
+      },
+      {
+        "label": "John 12:12–19",
+        "appUrl": "youversion://bible?reference=JHN.12.12-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:12-19"
+      },
+      {
+        "label": "Mark 11:12",
+        "appUrl": "youversion://bible?reference=MRK.11.12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2011:12"
       }
     ]
   },
@@ -3344,6 +5304,33 @@
         "label": "John 12:20–24",
         "url": "https://www.bible.com/bible/116/JHN.12.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 11:13–18",
+        "appUrl": "youversion://bible?reference=MRK.11.13-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2011:13-18"
+      },
+      {
+        "label": "Matthew 21:18–19",
+        "appUrl": "youversion://bible?reference=MAT.21.18-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:18-19"
+      },
+      {
+        "label": "Matthew 21:12–13",
+        "appUrl": "youversion://bible?reference=MAT.21.12-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:12-13"
+      },
+      {
+        "label": "Luke 19:45–48",
+        "appUrl": "youversion://bible?reference=LUK.19.45-48",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2019:45-48"
+      },
+      {
+        "label": "John 12:20–24",
+        "appUrl": "youversion://bible?reference=JHN.12.20-24",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:20-24"
+      }
     ]
   },
   {
@@ -3360,6 +5347,13 @@
       {
         "label": "John 12:25–43",
         "url": "https://www.bible.com/bible/116/JHN.12.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 12:25–43",
+        "appUrl": "youversion://bible?reference=JHN.12.25-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:25-43"
       }
     ]
   },
@@ -3393,6 +5387,28 @@
         "label": "Luke 21:37",
         "url": "https://www.bible.com/bible/116/LUK.21.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 12:44–50",
+        "appUrl": "youversion://bible?reference=JHN.12.44-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:44-50"
+      },
+      {
+        "label": "Mark 11:19–26",
+        "appUrl": "youversion://bible?reference=MRK.11.19-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2011:19-26"
+      },
+      {
+        "label": "Matthew 21:20–22",
+        "appUrl": "youversion://bible?reference=MAT.21.20-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:20-22"
+      },
+      {
+        "label": "Luke 21:37",
+        "appUrl": "youversion://bible?reference=LUK.21.37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:37"
+      }
     ]
   },
   {
@@ -3420,6 +5436,23 @@
         "label": "Mark 12:1–11",
         "url": "https://www.bible.com/bible/116/MRK.12.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 21:38",
+        "appUrl": "youversion://bible?reference=LUK.21.38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:38"
+      },
+      {
+        "label": "Mark 11:27–33",
+        "appUrl": "youversion://bible?reference=MRK.11.27-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2011:27-33"
+      },
+      {
+        "label": "Mark 12:1–11",
+        "appUrl": "youversion://bible?reference=MRK.12.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:1-11"
+      }
     ]
   },
   {
@@ -3441,6 +5474,18 @@
       {
         "label": "Matthew 21:23–40",
         "url": "https://www.bible.com/bible/116/MAT.21.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 12:12",
+        "appUrl": "youversion://bible?reference=MRK.12.12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:12"
+      },
+      {
+        "label": "Matthew 21:23–40",
+        "appUrl": "youversion://bible?reference=MAT.21.23-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:23-40"
       }
     ]
   },
@@ -3464,6 +5509,18 @@
         "label": "Matthew 22:1–13",
         "url": "https://www.bible.com/bible/116/MAT.22.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 21:41–46",
+        "appUrl": "youversion://bible?reference=MAT.21.41-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2021:41-46"
+      },
+      {
+        "label": "Matthew 22:1–13",
+        "appUrl": "youversion://bible?reference=MAT.22.1-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:1-13"
+      }
     ]
   },
   {
@@ -3485,6 +5542,18 @@
       {
         "label": "Luke 20:1–18",
         "url": "https://www.bible.com/bible/116/LUK.20.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 22:14",
+        "appUrl": "youversion://bible?reference=MAT.22.14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:14"
+      },
+      {
+        "label": "Luke 20:1–18",
+        "appUrl": "youversion://bible?reference=LUK.20.1-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:1-18"
       }
     ]
   },
@@ -3518,6 +5587,28 @@
         "label": "Luke 20:20–24",
         "url": "https://www.bible.com/bible/116/LUK.20.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 20:19",
+        "appUrl": "youversion://bible?reference=LUK.20.19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:19"
+      },
+      {
+        "label": "Mark 12:13–17",
+        "appUrl": "youversion://bible?reference=MRK.12.13-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:13-17"
+      },
+      {
+        "label": "Matthew 22:15–22",
+        "appUrl": "youversion://bible?reference=MAT.22.15-22",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:15-22"
+      },
+      {
+        "label": "Luke 20:20–24",
+        "appUrl": "youversion://bible?reference=LUK.20.20-24",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:20-24"
+      }
     ]
   },
   {
@@ -3545,6 +5636,23 @@
         "label": "Matthew 22:23–29",
         "url": "https://www.bible.com/bible/116/MAT.22.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 20:25–26",
+        "appUrl": "youversion://bible?reference=LUK.20.25-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:25-26"
+      },
+      {
+        "label": "Mark 12:18–27",
+        "appUrl": "youversion://bible?reference=MRK.12.18-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:18-27"
+      },
+      {
+        "label": "Matthew 22:23–29",
+        "appUrl": "youversion://bible?reference=MAT.22.23-29",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:23-29"
+      }
     ]
   },
   {
@@ -3571,6 +5679,23 @@
       {
         "label": "Mark 12:28",
         "url": "https://www.bible.com/bible/116/MRK.12.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 22:30–33",
+        "appUrl": "youversion://bible?reference=MAT.22.30-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:30-33"
+      },
+      {
+        "label": "Luke 20:27–40",
+        "appUrl": "youversion://bible?reference=LUK.20.27-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:27-40"
+      },
+      {
+        "label": "Mark 12:28",
+        "appUrl": "youversion://bible?reference=MRK.12.28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:28"
       }
     ]
   },
@@ -3604,6 +5729,28 @@
         "label": "Matthew 22:41–43",
         "url": "https://www.bible.com/bible/116/MAT.22.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 12:29–34",
+        "appUrl": "youversion://bible?reference=MRK.12.29-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:29-34"
+      },
+      {
+        "label": "Matthew 22:34–40",
+        "appUrl": "youversion://bible?reference=MAT.22.34-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:34-40"
+      },
+      {
+        "label": "Mark 12:35–37",
+        "appUrl": "youversion://bible?reference=MRK.12.35-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:35-37"
+      },
+      {
+        "label": "Matthew 22:41–43",
+        "appUrl": "youversion://bible?reference=MAT.22.41-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:41-43"
+      }
     ]
   },
   {
@@ -3636,6 +5783,28 @@
         "label": "Matthew 23:1–9",
         "url": "https://www.bible.com/bible/116/MAT.23.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 22:44–46",
+        "appUrl": "youversion://bible?reference=MAT.22.44-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2022:44-46"
+      },
+      {
+        "label": "Luke 20:41–44",
+        "appUrl": "youversion://bible?reference=LUK.20.41-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:41-44"
+      },
+      {
+        "label": "Mark 12:38–40",
+        "appUrl": "youversion://bible?reference=MRK.12.38-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:38-40"
+      },
+      {
+        "label": "Matthew 23:1–9",
+        "appUrl": "youversion://bible?reference=MAT.23.1-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2023:1-9"
+      }
     ]
   },
   {
@@ -3652,6 +5821,13 @@
       {
         "label": "Matthew 23:10–28",
         "url": "https://www.bible.com/bible/116/MAT.23.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 23:10–28",
+        "appUrl": "youversion://bible?reference=MAT.23.10-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2023:10-28"
       }
     ]
   },
@@ -3685,6 +5861,28 @@
         "label": "Luke 21:1",
         "url": "https://www.bible.com/bible/116/LUK.21.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 23:29–39",
+        "appUrl": "youversion://bible?reference=MAT.23.29-39",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2023:29-39"
+      },
+      {
+        "label": "Luke 20:45–47",
+        "appUrl": "youversion://bible?reference=LUK.20.45-47",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2020:45-47"
+      },
+      {
+        "label": "Mark 12:41–44",
+        "appUrl": "youversion://bible?reference=MRK.12.41-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2012:41-44"
+      },
+      {
+        "label": "Luke 21:1",
+        "appUrl": "youversion://bible?reference=LUK.21.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:1"
+      }
     ]
   },
   {
@@ -3707,6 +5905,18 @@
         "label": "Mark 13:1–16",
         "url": "https://www.bible.com/bible/116/MRK.13.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 21:2–4",
+        "appUrl": "youversion://bible?reference=LUK.21.2-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:2-4"
+      },
+      {
+        "label": "Mark 13:1–16",
+        "appUrl": "youversion://bible?reference=MRK.13.1-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2013:1-16"
+      }
     ]
   },
   {
@@ -3723,6 +5933,13 @@
       {
         "label": "Mark 13:17–35",
         "url": "https://www.bible.com/bible/116/MRK.13.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 13:17–35",
+        "appUrl": "youversion://bible?reference=MRK.13.17-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2013:17-35"
       }
     ]
   },
@@ -3746,6 +5963,18 @@
         "label": "Matthew 24:1–17",
         "url": "https://www.bible.com/bible/116/MAT.24.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 13:36–37",
+        "appUrl": "youversion://bible?reference=MRK.13.36-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2013:36-37"
+      },
+      {
+        "label": "Matthew 24:1–17",
+        "appUrl": "youversion://bible?reference=MAT.24.1-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2024:1-17"
+      }
     ]
   },
   {
@@ -3762,6 +5991,13 @@
       {
         "label": "Matthew 24:18–36",
         "url": "https://www.bible.com/bible/116/MAT.24.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 24:18–36",
+        "appUrl": "youversion://bible?reference=MAT.24.18-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2024:18-36"
       }
     ]
   },
@@ -3785,6 +6021,18 @@
         "label": "Matthew 25:1–4",
         "url": "https://www.bible.com/bible/116/MAT.25.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 24:37–51",
+        "appUrl": "youversion://bible?reference=MAT.24.37-51",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2024:37-51"
+      },
+      {
+        "label": "Matthew 25:1–4",
+        "appUrl": "youversion://bible?reference=MAT.25.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2025:1-4"
+      }
     ]
   },
   {
@@ -3802,6 +6050,13 @@
         "label": "Matthew 25:5–23",
         "url": "https://www.bible.com/bible/116/MAT.25.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 25:5–23",
+        "appUrl": "youversion://bible?reference=MAT.25.5-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2025:5-23"
+      }
     ]
   },
   {
@@ -3818,6 +6073,13 @@
       {
         "label": "Matthew 25:24–42",
         "url": "https://www.bible.com/bible/116/MAT.25.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 25:24–42",
+        "appUrl": "youversion://bible?reference=MAT.25.24-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2025:24-42"
       }
     ]
   },
@@ -3841,6 +6103,18 @@
         "label": "Luke 21:5–19",
         "url": "https://www.bible.com/bible/116/LUK.21.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 25:43–46",
+        "appUrl": "youversion://bible?reference=MAT.25.43-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2025:43-46"
+      },
+      {
+        "label": "Luke 21:5–19",
+        "appUrl": "youversion://bible?reference=LUK.21.5-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:5-19"
+      }
     ]
   },
   {
@@ -3862,6 +6136,18 @@
       {
         "label": "Mark 14:1–2",
         "url": "https://www.bible.com/bible/116/MRK.14.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 21:20–36",
+        "appUrl": "youversion://bible?reference=LUK.21.20-36",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2021:20-36"
+      },
+      {
+        "label": "Mark 14:1–2",
+        "appUrl": "youversion://bible?reference=MRK.14.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:1-2"
       }
     ]
   },
@@ -3894,6 +6180,28 @@
       {
         "label": "Matthew 26:6–10",
         "url": "https://www.bible.com/bible/116/MAT.26.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:1–5",
+        "appUrl": "youversion://bible?reference=MAT.26.1-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:1-5"
+      },
+      {
+        "label": "Luke 22:1–2",
+        "appUrl": "youversion://bible?reference=LUK.22.1-2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:1-2"
+      },
+      {
+        "label": "Mark 14:3–9",
+        "appUrl": "youversion://bible?reference=MRK.14.3-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:3-9"
+      },
+      {
+        "label": "Matthew 26:6–10",
+        "appUrl": "youversion://bible?reference=MAT.26.6-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:6-10"
       }
     ]
   },
@@ -3931,6 +6239,33 @@
       {
         "label": "Luke 22:3–6",
         "url": "https://www.bible.com/bible/116/LUK.22.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:11–13",
+        "appUrl": "youversion://bible?reference=MAT.26.11-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:11-13"
+      },
+      {
+        "label": "John 12:2–8",
+        "appUrl": "youversion://bible?reference=JHN.12.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2012:2-8"
+      },
+      {
+        "label": "Mark 14:10–11",
+        "appUrl": "youversion://bible?reference=MRK.14.10-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:10-11"
+      },
+      {
+        "label": "Matthew 26:14–16",
+        "appUrl": "youversion://bible?reference=MAT.26.14-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:14-16"
+      },
+      {
+        "label": "Luke 22:3–6",
+        "appUrl": "youversion://bible?reference=LUK.22.3-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:3-6"
       }
     ]
   },
@@ -3974,6 +6309,38 @@
         "label": "Luke 22:14–15",
         "url": "https://www.bible.com/bible/116/LUK.22.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 14:12–16",
+        "appUrl": "youversion://bible?reference=MRK.14.12-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:12-16"
+      },
+      {
+        "label": "Matthew 26:17–19",
+        "appUrl": "youversion://bible?reference=MAT.26.17-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:17-19"
+      },
+      {
+        "label": "Luke 22:7–13",
+        "appUrl": "youversion://bible?reference=LUK.22.7-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:7-13"
+      },
+      {
+        "label": "Mark 14:17",
+        "appUrl": "youversion://bible?reference=MRK.14.17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:17"
+      },
+      {
+        "label": "Matthew 26:20",
+        "appUrl": "youversion://bible?reference=MAT.26.20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:20"
+      },
+      {
+        "label": "Luke 22:14–15",
+        "appUrl": "youversion://bible?reference=LUK.22.14-15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:14-15"
+      }
     ]
   },
   {
@@ -4000,6 +6367,23 @@
       {
         "label": "John 13:1–11",
         "url": "https://www.bible.com/bible/116/JHN.13.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 22:16",
+        "appUrl": "youversion://bible?reference=LUK.22.16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:16"
+      },
+      {
+        "label": "Luke 22:24–30",
+        "appUrl": "youversion://bible?reference=LUK.22.24-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:24-30"
+      },
+      {
+        "label": "John 13:1–11",
+        "appUrl": "youversion://bible?reference=JHN.13.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2013:1-11"
       }
     ]
   },
@@ -4033,6 +6417,28 @@
         "label": "Luke 22:21",
         "url": "https://www.bible.com/bible/116/LUK.22.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 13:12–20",
+        "appUrl": "youversion://bible?reference=JHN.13.12-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2013:12-20"
+      },
+      {
+        "label": "Mark 14:18–21",
+        "appUrl": "youversion://bible?reference=MRK.14.18-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:18-21"
+      },
+      {
+        "label": "Matthew 26:21–25",
+        "appUrl": "youversion://bible?reference=MAT.26.21-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:21-25"
+      },
+      {
+        "label": "Luke 22:21",
+        "appUrl": "youversion://bible?reference=LUK.22.21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:21"
+      }
     ]
   },
   {
@@ -4065,6 +6471,28 @@
         "label": "Matthew 26:31–32",
         "url": "https://www.bible.com/bible/116/MAT.26.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 22:22–23",
+        "appUrl": "youversion://bible?reference=LUK.22.22-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:22-23"
+      },
+      {
+        "label": "John 13:21–30",
+        "appUrl": "youversion://bible?reference=JHN.13.21-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2013:21-30"
+      },
+      {
+        "label": "Mark 14:27–31",
+        "appUrl": "youversion://bible?reference=MRK.14.27-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:27-31"
+      },
+      {
+        "label": "Matthew 26:31–32",
+        "appUrl": "youversion://bible?reference=MAT.26.31-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:31-32"
+      }
     ]
   },
   {
@@ -4091,6 +6519,23 @@
       {
         "label": "John 13:31–38",
         "url": "https://www.bible.com/bible/116/JHN.13.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:33–35",
+        "appUrl": "youversion://bible?reference=MAT.26.33-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:33-35"
+      },
+      {
+        "label": "Luke 22:31–38",
+        "appUrl": "youversion://bible?reference=LUK.22.31-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:31-38"
+      },
+      {
+        "label": "John 13:31–38",
+        "appUrl": "youversion://bible?reference=JHN.13.31-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2013:31-38"
       }
     ]
   },
@@ -4124,6 +6569,28 @@
         "label": "John 14:1–7",
         "url": "https://www.bible.com/bible/116/JHN.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 14:22–25",
+        "appUrl": "youversion://bible?reference=MRK.14.22-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:22-25"
+      },
+      {
+        "label": "Matthew 26:26–29",
+        "appUrl": "youversion://bible?reference=MAT.26.26-29",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:26-29"
+      },
+      {
+        "label": "Luke 22:17–20",
+        "appUrl": "youversion://bible?reference=LUK.22.17-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:17-20"
+      },
+      {
+        "label": "John 14:1–7",
+        "appUrl": "youversion://bible?reference=JHN.14.1-7",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2014:1-7"
+      }
     ]
   },
   {
@@ -4140,6 +6607,13 @@
       {
         "label": "John 14:8–26",
         "url": "https://www.bible.com/bible/116/JHN.14.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 14:8–26",
+        "appUrl": "youversion://bible?reference=JHN.14.8-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2014:8-26"
       }
     ]
   },
@@ -4163,6 +6637,18 @@
         "label": "John 15:1–14",
         "url": "https://www.bible.com/bible/116/JHN.15.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 14:27–31",
+        "appUrl": "youversion://bible?reference=JHN.14.27-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2014:27-31"
+      },
+      {
+        "label": "John 15:1–14",
+        "appUrl": "youversion://bible?reference=JHN.15.1-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2015:1-14"
+      }
     ]
   },
   {
@@ -4185,6 +6671,18 @@
         "label": "John 16:1–6",
         "url": "https://www.bible.com/bible/116/JHN.16.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 15:15–27",
+        "appUrl": "youversion://bible?reference=JHN.15.15-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2015:15-27"
+      },
+      {
+        "label": "John 16:1–6",
+        "appUrl": "youversion://bible?reference=JHN.16.1-6",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2016:1-6"
+      }
     ]
   },
   {
@@ -4201,6 +6699,13 @@
       {
         "label": "John 16:7–25",
         "url": "https://www.bible.com/bible/116/JHN.16.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 16:7–25",
+        "appUrl": "youversion://bible?reference=JHN.16.7-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2016:7-25"
       }
     ]
   },
@@ -4223,6 +6728,18 @@
       {
         "label": "John 17:1–11",
         "url": "https://www.bible.com/bible/116/JHN.17.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 16:26–33",
+        "appUrl": "youversion://bible?reference=JHN.16.26-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2016:26-33"
+      },
+      {
+        "label": "John 17:1–11",
+        "appUrl": "youversion://bible?reference=JHN.17.1-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2017:1-11"
       }
     ]
   },
@@ -4251,6 +6768,23 @@
         "label": "Mark 14:32–34",
         "url": "https://www.bible.com/bible/116/MRK.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 17:12–26",
+        "appUrl": "youversion://bible?reference=JHN.17.12-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2017:12-26"
+      },
+      {
+        "label": "Mark 14:26",
+        "appUrl": "youversion://bible?reference=MRK.14.26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:26"
+      },
+      {
+        "label": "Mark 14:32–34",
+        "appUrl": "youversion://bible?reference=MRK.14.32-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:32-34"
+      }
     ]
   },
   {
@@ -4277,6 +6811,23 @@
       {
         "label": "Matthew 26:36–45",
         "url": "https://www.bible.com/bible/116/MAT.26.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 14:35–42",
+        "appUrl": "youversion://bible?reference=MRK.14.35-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:35-42"
+      },
+      {
+        "label": "Matthew 26:30",
+        "appUrl": "youversion://bible?reference=MAT.26.30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:30"
+      },
+      {
+        "label": "Matthew 26:36–45",
+        "appUrl": "youversion://bible?reference=MAT.26.36-45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:36-45"
       }
     ]
   },
@@ -4310,6 +6861,28 @@
         "label": "Mark 14:43–51",
         "url": "https://www.bible.com/bible/116/MRK.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:46",
+        "appUrl": "youversion://bible?reference=MAT.26.46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:46"
+      },
+      {
+        "label": "Luke 22:39–46",
+        "appUrl": "youversion://bible?reference=LUK.22.39-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:39-46"
+      },
+      {
+        "label": "John 18:1",
+        "appUrl": "youversion://bible?reference=JHN.18.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:1"
+      },
+      {
+        "label": "Mark 14:43–51",
+        "appUrl": "youversion://bible?reference=MRK.14.43-51",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:43-51"
+      }
     ]
   },
   {
@@ -4341,6 +6914,28 @@
       {
         "label": "John 18:2",
         "url": "https://www.bible.com/bible/116/JHN.18.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 14:52",
+        "appUrl": "youversion://bible?reference=MRK.14.52",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:52"
+      },
+      {
+        "label": "Matthew 26:47–56",
+        "appUrl": "youversion://bible?reference=MAT.26.47-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:47-56"
+      },
+      {
+        "label": "Luke 22:47–53",
+        "appUrl": "youversion://bible?reference=LUK.22.47-53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:47-53"
+      },
+      {
+        "label": "John 18:2",
+        "appUrl": "youversion://bible?reference=JHN.18.2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:2"
       }
     ]
   },
@@ -4374,6 +6969,28 @@
         "label": "Mark 14:55",
         "url": "https://www.bible.com/bible/116/MRK.14.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 18:3–14",
+        "appUrl": "youversion://bible?reference=JHN.18.3-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:3-14"
+      },
+      {
+        "label": "John 18:19–23",
+        "appUrl": "youversion://bible?reference=JHN.18.19-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:19-23"
+      },
+      {
+        "label": "Mark 14:53",
+        "appUrl": "youversion://bible?reference=MRK.14.53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:53"
+      },
+      {
+        "label": "Mark 14:55",
+        "appUrl": "youversion://bible?reference=MRK.14.55",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:55"
+      }
     ]
   },
   {
@@ -4400,6 +7017,23 @@
       {
         "label": "Matthew 26:59–66",
         "url": "https://www.bible.com/bible/116/MAT.26.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 14:56–65",
+        "appUrl": "youversion://bible?reference=MRK.14.56-65",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:56-65"
+      },
+      {
+        "label": "Matthew 26:57",
+        "appUrl": "youversion://bible?reference=MAT.26.57",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:57"
+      },
+      {
+        "label": "Matthew 26:59–66",
+        "appUrl": "youversion://bible?reference=MAT.26.59-66",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:59-66"
       }
     ]
   },
@@ -4453,6 +7087,48 @@
         "label": "Matthew 26:69–71",
         "url": "https://www.bible.com/bible/116/MAT.26.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:67–68",
+        "appUrl": "youversion://bible?reference=MAT.26.67-68",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:67-68"
+      },
+      {
+        "label": "Luke 22:54",
+        "appUrl": "youversion://bible?reference=LUK.22.54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:54"
+      },
+      {
+        "label": "Luke 22:63–65",
+        "appUrl": "youversion://bible?reference=LUK.22.63-65",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:63-65"
+      },
+      {
+        "label": "John 18:24",
+        "appUrl": "youversion://bible?reference=JHN.18.24",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:24"
+      },
+      {
+        "label": "Mark 14:54",
+        "appUrl": "youversion://bible?reference=MRK.14.54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:54"
+      },
+      {
+        "label": "Mark 14:66–72",
+        "appUrl": "youversion://bible?reference=MRK.14.66-72",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2014:66-72"
+      },
+      {
+        "label": "Matthew 26:58",
+        "appUrl": "youversion://bible?reference=MAT.26.58",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:58"
+      },
+      {
+        "label": "Matthew 26:69–71",
+        "appUrl": "youversion://bible?reference=MAT.26.69-71",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:69-71"
+      }
     ]
   },
   {
@@ -4484,6 +7160,28 @@
       {
         "label": "John 18:25–27",
         "url": "https://www.bible.com/bible/116/JHN.18.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 26:72–75",
+        "appUrl": "youversion://bible?reference=MAT.26.72-75",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2026:72-75"
+      },
+      {
+        "label": "Luke 22:55–62",
+        "appUrl": "youversion://bible?reference=LUK.22.55-62",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:55-62"
+      },
+      {
+        "label": "John 18:15–18",
+        "appUrl": "youversion://bible?reference=JHN.18.15-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:15-18"
+      },
+      {
+        "label": "John 18:25–27",
+        "appUrl": "youversion://bible?reference=JHN.18.25-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:25-27"
       }
     ]
   },
@@ -4522,6 +7220,33 @@
         "label": "Mark 15:2–4",
         "url": "https://www.bible.com/bible/116/MRK.15.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 15:1",
+        "appUrl": "youversion://bible?reference=MRK.15.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:1"
+      },
+      {
+        "label": "Matthew 27:1",
+        "appUrl": "youversion://bible?reference=MAT.27.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:1"
+      },
+      {
+        "label": "Luke 22:66–71",
+        "appUrl": "youversion://bible?reference=LUK.22.66-71",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2022:66-71"
+      },
+      {
+        "label": "Matthew 27:3–10",
+        "appUrl": "youversion://bible?reference=MAT.27.3-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:3-10"
+      },
+      {
+        "label": "Mark 15:2–4",
+        "appUrl": "youversion://bible?reference=MRK.15.2-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:2-4"
+      }
     ]
   },
   {
@@ -4559,6 +7284,33 @@
         "label": "John 18:28–35",
         "url": "https://www.bible.com/bible/116/JHN.18.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 15:5",
+        "appUrl": "youversion://bible?reference=MRK.15.5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:5"
+      },
+      {
+        "label": "Matthew 27:2",
+        "appUrl": "youversion://bible?reference=MAT.27.2",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:2"
+      },
+      {
+        "label": "Matthew 27:11–14",
+        "appUrl": "youversion://bible?reference=MAT.27.11-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:11-14"
+      },
+      {
+        "label": "Luke 23:1–5",
+        "appUrl": "youversion://bible?reference=LUK.23.1-5",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:1-5"
+      },
+      {
+        "label": "John 18:28–35",
+        "appUrl": "youversion://bible?reference=JHN.18.28-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:28-35"
+      }
     ]
   },
   {
@@ -4585,6 +7337,23 @@
       {
         "label": "Mark 15:6–14",
         "url": "https://www.bible.com/bible/116/MRK.15.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 18:36–38",
+        "appUrl": "youversion://bible?reference=JHN.18.36-38",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:36-38"
+      },
+      {
+        "label": "Luke 23:6–12",
+        "appUrl": "youversion://bible?reference=LUK.23.6-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:6-12"
+      },
+      {
+        "label": "Mark 15:6–14",
+        "appUrl": "youversion://bible?reference=MRK.15.6-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:6-14"
       }
     ]
   },
@@ -4613,6 +7382,23 @@
         "label": "Luke 23:13–18",
         "url": "https://www.bible.com/bible/116/LUK.23.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 15:15",
+        "appUrl": "youversion://bible?reference=MRK.15.15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:15"
+      },
+      {
+        "label": "Matthew 27:15–26",
+        "appUrl": "youversion://bible?reference=MAT.27.15-26",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:15-26"
+      },
+      {
+        "label": "Luke 23:13–18",
+        "appUrl": "youversion://bible?reference=LUK.23.13-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:13-18"
+      }
     ]
   },
   {
@@ -4639,6 +7425,23 @@
       {
         "label": "John 19:1–10",
         "url": "https://www.bible.com/bible/116/JHN.19.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 23:19–25",
+        "appUrl": "youversion://bible?reference=LUK.23.19-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:19-25"
+      },
+      {
+        "label": "John 18:39–40",
+        "appUrl": "youversion://bible?reference=JHN.18.39-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2018:39-40"
+      },
+      {
+        "label": "John 19:1–10",
+        "appUrl": "youversion://bible?reference=JHN.19.1-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:1-10"
       }
     ]
   },
@@ -4677,6 +7480,33 @@
         "label": "Matthew 27:31",
         "url": "https://www.bible.com/bible/116/MAT.27.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 19:11–16",
+        "appUrl": "youversion://bible?reference=JHN.19.11-16",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:11-16"
+      },
+      {
+        "label": "Mark 15:16–19",
+        "appUrl": "youversion://bible?reference=MRK.15.16-19",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:16-19"
+      },
+      {
+        "label": "Matthew 27:27–30",
+        "appUrl": "youversion://bible?reference=MAT.27.27-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:27-30"
+      },
+      {
+        "label": "Mark 15:20–23",
+        "appUrl": "youversion://bible?reference=MRK.15.20-23",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:20-23"
+      },
+      {
+        "label": "Matthew 27:31",
+        "appUrl": "youversion://bible?reference=MAT.27.31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:31"
+      }
     ]
   },
   {
@@ -4709,6 +7539,28 @@
         "label": "Mark 15:24–30",
         "url": "https://www.bible.com/bible/116/MRK.15.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 27:32–34",
+        "appUrl": "youversion://bible?reference=MAT.27.32-34",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:32-34"
+      },
+      {
+        "label": "Luke 23:26–33",
+        "appUrl": "youversion://bible?reference=LUK.23.26-33",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:26-33"
+      },
+      {
+        "label": "John 19:17",
+        "appUrl": "youversion://bible?reference=JHN.19.17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:17"
+      },
+      {
+        "label": "Mark 15:24–30",
+        "appUrl": "youversion://bible?reference=MRK.15.24-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:24-30"
+      }
     ]
   },
   {
@@ -4735,6 +7587,23 @@
       {
         "label": "Luke 23:34–40",
         "url": "https://www.bible.com/bible/116/LUK.23.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 15:31–32",
+        "appUrl": "youversion://bible?reference=MRK.15.31-32",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:31-32"
+      },
+      {
+        "label": "Matthew 27:35–44",
+        "appUrl": "youversion://bible?reference=MAT.27.35-44",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:35-44"
+      },
+      {
+        "label": "Luke 23:34–40",
+        "appUrl": "youversion://bible?reference=LUK.23.34-40",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:34-40"
       }
     ]
   },
@@ -4767,6 +7636,28 @@
       {
         "label": "Matthew 27:45",
         "url": "https://www.bible.com/bible/116/MAT.27.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 23:41–43",
+        "appUrl": "youversion://bible?reference=LUK.23.41-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:41-43"
+      },
+      {
+        "label": "John 19:18–27",
+        "appUrl": "youversion://bible?reference=JHN.19.18-27",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:18-27"
+      },
+      {
+        "label": "Mark 15:33–37",
+        "appUrl": "youversion://bible?reference=MRK.15.33-37",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:33-37"
+      },
+      {
+        "label": "Matthew 27:45",
+        "appUrl": "youversion://bible?reference=MAT.27.45",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:45"
       }
     ]
   },
@@ -4805,6 +7696,33 @@
         "label": "Matthew 27:51–54",
         "url": "https://www.bible.com/bible/116/MAT.27.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 27:46–50",
+        "appUrl": "youversion://bible?reference=MAT.27.46-50",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:46-50"
+      },
+      {
+        "label": "Luke 23:44–46",
+        "appUrl": "youversion://bible?reference=LUK.23.44-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:44-46"
+      },
+      {
+        "label": "John 19:28–30",
+        "appUrl": "youversion://bible?reference=JHN.19.28-30",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:28-30"
+      },
+      {
+        "label": "Mark 15:38–41",
+        "appUrl": "youversion://bible?reference=MRK.15.38-41",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:38-41"
+      },
+      {
+        "label": "Matthew 27:51–54",
+        "appUrl": "youversion://bible?reference=MAT.27.51-54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:51-54"
+      }
     ]
   },
   {
@@ -4842,6 +7760,33 @@
         "label": "Luke 23:50–54",
         "url": "https://www.bible.com/bible/116/LUK.23.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 27:55–56",
+        "appUrl": "youversion://bible?reference=MAT.27.55-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:55-56"
+      },
+      {
+        "label": "Luke 23:47–49",
+        "appUrl": "youversion://bible?reference=LUK.23.47-49",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:47-49"
+      },
+      {
+        "label": "Mark 15:42–46",
+        "appUrl": "youversion://bible?reference=MRK.15.42-46",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:42-46"
+      },
+      {
+        "label": "Matthew 27:57–60",
+        "appUrl": "youversion://bible?reference=MAT.27.57-60",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:57-60"
+      },
+      {
+        "label": "Luke 23:50–54",
+        "appUrl": "youversion://bible?reference=LUK.23.50-54",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:50-54"
+      }
     ]
   },
   {
@@ -4868,6 +7813,23 @@
       {
         "label": "Matthew 27:61–66",
         "url": "https://www.bible.com/bible/116/MAT.27.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 19:31–42",
+        "appUrl": "youversion://bible?reference=JHN.19.31-42",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2019:31-42"
+      },
+      {
+        "label": "Mark 15:47",
+        "appUrl": "youversion://bible?reference=MRK.15.47",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2015:47"
+      },
+      {
+        "label": "Matthew 27:61–66",
+        "appUrl": "youversion://bible?reference=MAT.27.61-66",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2027:61-66"
       }
     ]
   },
@@ -4911,6 +7873,38 @@
         "label": "Luke 24:1",
         "url": "https://www.bible.com/bible/116/LUK.24.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 23:55–56",
+        "appUrl": "youversion://bible?reference=LUK.23.55-56",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2023:55-56"
+      },
+      {
+        "label": "Mark 16:1",
+        "appUrl": "youversion://bible?reference=MRK.16.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:1"
+      },
+      {
+        "label": "Matthew 28:1–4",
+        "appUrl": "youversion://bible?reference=MAT.28.1-4",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2028:1-4"
+      },
+      {
+        "label": "Mark 16:2–8",
+        "appUrl": "youversion://bible?reference=MRK.16.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:2-8"
+      },
+      {
+        "label": "Matthew 28:5–8",
+        "appUrl": "youversion://bible?reference=MAT.28.5-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2028:5-8"
+      },
+      {
+        "label": "Luke 24:1",
+        "appUrl": "youversion://bible?reference=LUK.24.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:1"
+      }
     ]
   },
   {
@@ -4942,6 +7936,28 @@
       {
         "label": "John 20:2–8",
         "url": "https://www.bible.com/bible/116/JHN.20.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 24:2–8",
+        "appUrl": "youversion://bible?reference=LUK.24.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:2-8"
+      },
+      {
+        "label": "John 20:1",
+        "appUrl": "youversion://bible?reference=JHN.20.1",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:1"
+      },
+      {
+        "label": "Luke 24:9–12",
+        "appUrl": "youversion://bible?reference=LUK.24.9-12",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:9-12"
+      },
+      {
+        "label": "John 20:2–8",
+        "appUrl": "youversion://bible?reference=JHN.20.2-8",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:2-8"
       }
     ]
   },
@@ -4975,6 +7991,28 @@
         "label": "Matthew 28:9–14",
         "url": "https://www.bible.com/bible/116/MAT.28.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 20:9–10",
+        "appUrl": "youversion://bible?reference=JHN.20.9-10",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:9-10"
+      },
+      {
+        "label": "Mark 16:9–11",
+        "appUrl": "youversion://bible?reference=MRK.16.9-11",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:9-11"
+      },
+      {
+        "label": "John 20:11–18",
+        "appUrl": "youversion://bible?reference=JHN.20.11-18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:11-18"
+      },
+      {
+        "label": "Matthew 28:9–14",
+        "appUrl": "youversion://bible?reference=MAT.28.9-14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2028:9-14"
+      }
     ]
   },
   {
@@ -5001,6 +8039,23 @@
       {
         "label": "Luke 24:13–28",
         "url": "https://www.bible.com/bible/116/LUK.24.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Matthew 28:15",
+        "appUrl": "youversion://bible?reference=MAT.28.15",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2028:15"
+      },
+      {
+        "label": "Mark 16:12–13",
+        "appUrl": "youversion://bible?reference=MRK.16.12-13",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:12-13"
+      },
+      {
+        "label": "Luke 24:13–28",
+        "appUrl": "youversion://bible?reference=LUK.24.13-28",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:13-28"
       }
     ]
   },
@@ -5034,6 +8089,28 @@
         "label": "John 20:19–21",
         "url": "https://www.bible.com/bible/116/JHN.20.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "Luke 24:29–35",
+        "appUrl": "youversion://bible?reference=LUK.24.29-35",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:29-35"
+      },
+      {
+        "label": "Mark 16:14",
+        "appUrl": "youversion://bible?reference=MRK.16.14",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:14"
+      },
+      {
+        "label": "Luke 24:36–43",
+        "appUrl": "youversion://bible?reference=LUK.24.36-43",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:36-43"
+      },
+      {
+        "label": "John 20:19–21",
+        "appUrl": "youversion://bible?reference=JHN.20.19-21",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:19-21"
+      }
     ]
   },
   {
@@ -5056,6 +8133,18 @@
         "label": "John 21:1–9",
         "url": "https://www.bible.com/bible/116/JHN.21.NLT"
       }
+    ],
+    "youversion": [
+      {
+        "label": "John 20:22–31",
+        "appUrl": "youversion://bible?reference=JHN.20.22-31",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2020:22-31"
+      },
+      {
+        "label": "John 21:1–9",
+        "appUrl": "youversion://bible?reference=JHN.21.1-9",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2021:1-9"
+      }
     ]
   },
   {
@@ -5077,6 +8166,18 @@
       {
         "label": "Mark 16:15–17",
         "url": "https://www.bible.com/bible/116/MRK.16.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "John 21:10–25",
+        "appUrl": "youversion://bible?reference=JHN.21.10-25",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=John%2021:10-25"
+      },
+      {
+        "label": "Mark 16:15–17",
+        "appUrl": "youversion://bible?reference=MRK.16.15-17",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:15-17"
       }
     ]
   },
@@ -5114,6 +8215,33 @@
       {
         "label": "Luke 24:50–53",
         "url": "https://www.bible.com/bible/116/LUK.24.NLT"
+      }
+    ],
+    "youversion": [
+      {
+        "label": "Mark 16:18",
+        "appUrl": "youversion://bible?reference=MRK.16.18",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:18"
+      },
+      {
+        "label": "Matthew 28:16–20",
+        "appUrl": "youversion://bible?reference=MAT.28.16-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Matthew%2028:16-20"
+      },
+      {
+        "label": "Luke 24:44–49",
+        "appUrl": "youversion://bible?reference=LUK.24.44-49",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:44-49"
+      },
+      {
+        "label": "Mark 16:19–20",
+        "appUrl": "youversion://bible?reference=MRK.16.19-20",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Mark%2016:19-20"
+      },
+      {
+        "label": "Luke 24:50–53",
+        "appUrl": "youversion://bible?reference=LUK.24.50-53",
+        "fallbackUrl": "https://www.bible.com/search/bible?q=Luke%2024:50-53"
       }
     ]
   }

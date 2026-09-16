@@ -1,0 +1,14 @@
+CHRONOLOGICAL GOSPELS — VERSION 3
+
+Changes requested after real-world use:
+1. YouVersion buttons send the exact starting verse/range instead of only a chapter.
+2. NLT is no longer hard-coded. The YouVersion app is asked to open the reference and retain the user's own Bible-version preference.
+3. This works for readers and audio listeners: after YouVersion opens at the passage, use YouVersion's Audio/Play control if that selected version has audio.
+4. Added a prominent scrollable All Readings screen containing all 199 days, completion marks, and search. Tapping any day opens it without changing progress.
+5. Removed the redundant/nonfunctional Open button from the daily reading screen.
+
+IMPORTANT:
+YouVersion itself controls whether an incoming link visibly selects/highlights the whole range and whether audio starts at the exact verse. Version 3 does not claim to control those YouVersion-only behaviors.
+
+UPGRADING THE EXISTING HOSTED APP:
+Replace the old site files with the files in this folder, preserving the same web address. Version 3 intentionally uses the same local-storage keys as Version 2 so progress and notes can survive an in-place upgrade on the same site/origin.
